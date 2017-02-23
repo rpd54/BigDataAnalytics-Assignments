@@ -13,14 +13,11 @@ import unfiltered.response.{Ok, ResponseHeader, ResponseString}
 import unfiltered.filter.Plan
 import unfiltered.jetty.SocketPortBinding
 import unfiltered.request._
-/**
-  * Created by sudhakar on 2/10/17.
-  */
 
 object SimplePlan extends Plan {
   def intent = {
     case req@GET(Path("/get")) => {
-      Ok ~> ResponseString(IPApp.testImage("data3/test/airplanes/image_0792.jpg"))
+      Ok ~> ResponseString(IPApp.testImage("data3/test/basketball/2.jpg"))
     }
 
       case req@POST(Path("/get_custom")) => {

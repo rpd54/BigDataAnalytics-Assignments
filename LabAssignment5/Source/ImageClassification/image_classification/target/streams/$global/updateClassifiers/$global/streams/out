@@ -19,7 +19,7 @@
 [debug] == resolving dependencies for default#image_classification$sources_2.11;1.0 [compile]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a51e57e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@18c3a2b5
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.8
 [debug] 	found org.scala-lang#scala-library;2.11.8 in sbt-chain
 [debug] 	[2.11.8] org.scala-lang#scala-library;2.11.8
@@ -28,7 +28,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-streaming_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-streaming_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d2399f4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8d05518
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-streaming_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-streaming_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-streaming_2.11;1.6.0 [compile->runtime]
@@ -36,7 +36,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-streaming_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-core_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-core_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b796c48
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3be688fa
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-core_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-core_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-core_2.11;1.6.0 [compile->runtime]
@@ -44,7 +44,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-core_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.avro#avro-mapred;1.7.7 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro-mapred;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2aa60272
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@201c8a1e
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro-mapred;1.7.7
 [debug] 	found org.apache.avro#avro-mapred;1.7.7 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.avro#avro-mapred;1.7.7 [compile->runtime]
@@ -52,7 +52,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.avro#avro-mapred;1.7.7 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.avro#avro-ipc;1.7.7 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro-ipc;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@785763ec
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a8dcc72
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro-ipc;1.7.7
 [debug] 	found org.apache.avro#avro-ipc;1.7.7 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.avro#avro-ipc;1.7.7 [compile->runtime]
@@ -60,7 +60,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.avro#avro-ipc;1.7.7 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.avro#avro;1.7.7 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ed4e5ff
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e4e72f4
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro;1.7.7
 [debug] 	found org.apache.avro#avro;1.7.7 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.avro#avro;1.7.7 [compile->runtime]
@@ -68,7 +68,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.avro#avro;1.7.7 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.jackson#jackson-core-asl;1.9.13 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-core-asl;1.9.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28daabfb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e83ac3c
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-core-asl;1.9.13
 [debug] 	found org.codehaus.jackson#jackson-core-asl;1.9.13 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.jackson#jackson-core-asl;1.9.13 [compile->runtime]
@@ -76,7 +76,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.jackson#jackson-core-asl;1.9.13 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-mapper-asl;1.9.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4921e39f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d1cff36
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-mapper-asl;1.9.13
 [debug] 	found org.codehaus.jackson#jackson-mapper-asl;1.9.13 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [compile->runtime]
@@ -84,7 +84,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.commons#commons-compress;1.4.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-compress;1.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4af6c19
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e709f5a
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-compress;1.4.1
 [debug] 	found org.apache.commons#commons-compress;1.4.1 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.commons#commons-compress;1.4.1 [compile->runtime]
@@ -92,7 +92,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.commons#commons-compress;1.4.1 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.tukaani#xz;1.0 [compile->default(compile)]
 [info] Resolving org.tukaani#xz;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71dd9e88
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7269539b
 [debug] sbt-chain: module revision found in cache: org.tukaani#xz;1.0
 [debug] 	found org.tukaani#xz;1.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.tukaani#xz;1.0 [compile->runtime]
@@ -100,7 +100,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.tukaani#xz;1.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.twitter#chill_2.11;0.5.0 [compile->default(compile)]
 [info] Resolving com.twitter#chill_2.11;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@172e1131
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25f2e27d
 [debug] sbt-chain: module revision found in cache: com.twitter#chill_2.11;0.5.0
 [debug] 	found com.twitter#chill_2.11;0.5.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.twitter#chill_2.11;0.5.0 [compile->runtime]
@@ -108,7 +108,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.twitter#chill_2.11;0.5.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.twitter#chill-java;0.5.0 [compile->default(compile)]
 [info] Resolving com.twitter#chill-java;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3eeead6a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@18faeb96
 [debug] sbt-chain: module revision found in cache: com.twitter#chill-java;0.5.0
 [debug] 	found com.twitter#chill-java;0.5.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.twitter#chill-java;0.5.0 [compile->runtime]
@@ -116,7 +116,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.twitter#chill-java;0.5.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.esotericsoftware.kryo#kryo;2.21 [compile->default(compile)]
 [info] Resolving com.esotericsoftware.kryo#kryo;2.21 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d27917f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fef2f64
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.kryo#kryo;2.21
 [debug] 	found com.esotericsoftware.kryo#kryo;2.21 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.esotericsoftware.kryo#kryo;2.21 [compile->runtime]
@@ -124,7 +124,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.esotericsoftware.kryo#kryo;2.21 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [compile->default(compile)]
 [info] Resolving com.esotericsoftware.reflectasm#reflectasm;1.07 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51de4af7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ea3480d
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.reflectasm#reflectasm;1.07
 [debug] 	found com.esotericsoftware.reflectasm#reflectasm;1.07 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [compile->runtime]
@@ -132,7 +132,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.esotericsoftware.minlog#minlog;1.2 [compile->default(compile)]
 [info] Resolving com.esotericsoftware.minlog#minlog;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b1b7a64
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7067a6f2
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.minlog#minlog;1.2
 [debug] 	found com.esotericsoftware.minlog#minlog;1.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.esotericsoftware.minlog#minlog;1.2 [compile->runtime]
@@ -140,7 +140,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.esotericsoftware.minlog#minlog;1.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.objenesis#objenesis;1.2 [compile->default(compile)]
 [info] Resolving org.objenesis#objenesis;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e75b676
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@639dd315
 [debug] sbt-chain: module revision found in cache: org.objenesis#objenesis;1.2
 [debug] 	found org.objenesis#objenesis;1.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.objenesis#objenesis;1.2 [compile->runtime]
@@ -148,7 +148,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.objenesis#objenesis;1.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.xbean#xbean-asm5-shaded;4.4 [compile->default(compile)]
 [info] Resolving org.apache.xbean#xbean-asm5-shaded;4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10063247
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7fe5f637
 [debug] sbt-chain: module revision found in cache: org.apache.xbean#xbean-asm5-shaded;4.4
 [debug] 	found org.apache.xbean#xbean-asm5-shaded;4.4 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.xbean#xbean-asm5-shaded;4.4 [compile->runtime]
@@ -156,7 +156,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.xbean#xbean-asm5-shaded;4.4 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f625e98
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@478e672c
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-common;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-common;2.2.0 [compile->runtime]
@@ -164,7 +164,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-common;2.2.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-annotations;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a0b716b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49f50460
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-annotations;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-annotations;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->runtime]
@@ -172,7 +172,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-cli#commons-cli;1.2 [compile->default(compile)]
 [info] Resolving commons-cli#commons-cli;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@222d471b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@379e1f73
 [debug] sbt-chain: module revision found in cache: commons-cli#commons-cli;1.2
 [debug] 	found commons-cli#commons-cli;1.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-cli#commons-cli;1.2 [compile->runtime]
@@ -180,7 +180,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-cli#commons-cli;1.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.commons#commons-math;2.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math;2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55bf40b7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51a3aef0
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math;2.1
 [debug] 	found org.apache.commons#commons-math;2.1 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.commons#commons-math;2.1 [compile->runtime]
@@ -188,7 +188,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.commons#commons-math;2.1 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-httpclient#commons-httpclient;3.1 [compile->default(compile)]
 [info] Resolving commons-httpclient#commons-httpclient;3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44162afa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3bcd1839
 [debug] sbt-chain: module revision found in cache: commons-httpclient#commons-httpclient;3.1
 [debug] 	found commons-httpclient#commons-httpclient;3.1 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-httpclient#commons-httpclient;3.1 [compile->runtime]
@@ -196,7 +196,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-httpclient#commons-httpclient;3.1 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->default(compile)]
 [info] Resolving log4j#log4j;1.2.17 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f93e0b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65256d18
 [debug] sbt-chain: module revision found in cache: log4j#log4j;1.2.17
 [debug] 	found log4j#log4j;1.2.17 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->runtime]
@@ -204,7 +204,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-lang#commons-lang;2.5 [compile->default(compile)]
 [info] Resolving commons-lang#commons-lang;2.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@670290cc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4431ad02
 [debug] sbt-chain: module revision found in cache: commons-lang#commons-lang;2.5
 [debug] 	found commons-lang#commons-lang;2.5 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-lang#commons-lang;2.5 [compile->runtime]
@@ -212,7 +212,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-lang#commons-lang;2.5 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-configuration#commons-configuration;1.6 [compile->default(compile)]
 [info] Resolving commons-configuration#commons-configuration;1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b91cc8a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52adf246
 [debug] sbt-chain: module revision found in cache: commons-configuration#commons-configuration;1.6
 [debug] 	found commons-configuration#commons-configuration;1.6 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-configuration#commons-configuration;1.6 [compile->runtime]
@@ -220,7 +220,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-configuration#commons-configuration;1.6 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-collections#commons-collections;3.2.1 [compile->default(compile)]
 [info] Resolving commons-collections#commons-collections;3.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46a81403
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1da10145
 [debug] sbt-chain: module revision found in cache: commons-collections#commons-collections;3.2.1
 [debug] 	found commons-collections#commons-collections;3.2.1 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-collections#commons-collections;3.2.1 [compile->runtime]
@@ -228,7 +228,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-collections#commons-collections;3.2.1 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-digester#commons-digester;1.8 [compile->default(compile)]
 [info] Resolving commons-digester#commons-digester;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@abeee1a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17b332b5
 [debug] sbt-chain: module revision found in cache: commons-digester#commons-digester;1.8
 [debug] 	found commons-digester#commons-digester;1.8 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-digester#commons-digester;1.8 [compile->runtime]
@@ -236,7 +236,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-digester#commons-digester;1.8 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->default(compile)]
 [info] Resolving commons-beanutils#commons-beanutils;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@196bb09a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7be055ba
 [debug] sbt-chain: module revision found in cache: commons-beanutils#commons-beanutils;1.7.0
 [debug] 	found commons-beanutils#commons-beanutils;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->runtime]
@@ -244,7 +244,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->default(compile)]
 [info] Resolving com.google.protobuf#protobuf-java;2.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10c692ce
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f6c9f95
 [debug] sbt-chain: module revision found in cache: com.google.protobuf#protobuf-java;2.5.0
 [debug] 	found com.google.protobuf#protobuf-java;2.5.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->runtime]
@@ -252,7 +252,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-auth;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-auth;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ea7d6f8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31ff0a17
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-auth;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-auth;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-auth;2.2.0 [compile->runtime]
@@ -260,7 +260,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-auth;2.2.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-hdfs;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f7ef0c3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a127b17
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-hdfs;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-hdfs;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->runtime]
@@ -268,7 +268,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->default(compile)]
 [info] Resolving org.mortbay.jetty#jetty-util;6.1.26 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@92667fc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cf4a4c
 [debug] sbt-chain: module revision found in cache: org.mortbay.jetty#jetty-util;6.1.26
 [debug] 	found org.mortbay.jetty#jetty-util;6.1.26 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->runtime]
@@ -276,9 +276,9 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31b719f0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6266d2c2
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@31b719f0
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@6266d2c2
 [debug] 		tried C:\Users\prake\.ivy2\local\org.apache.hadoop\hadoop-mapreduce-client-app\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.2.0/hadoop-mapreduce-client-app-2.2.0.pom
@@ -288,7 +288,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.2.0/hadoop-mapreduce-client-app-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.2.0/hadoop-mapreduce-client-app-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.2.0/hadoop-mapreduce-client-app-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0!hadoop-mapreduce-client-app.pom(pom.original) (130ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0!hadoop-mapreduce-client-app.pom(pom.original) (284ms)
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0
@@ -298,9 +298,9 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13419f86
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77ebf9c8
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@13419f86
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@77ebf9c8
 [debug] 		tried C:\Users\prake\.ivy2\local\org.apache.hadoop\hadoop-mapreduce-client-common\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom
@@ -310,7 +310,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0!hadoop-mapreduce-client-common.pom(pom.original) (94ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0!hadoop-mapreduce-client-common.pom(pom.original) (160ms)
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0
@@ -320,9 +320,9 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d3b77c1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d94a3f6
 [info] Resolving org.apache.hadoop#hadoop-yarn-common;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@3d3b77c1
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@5d94a3f6
 [debug] 		tried C:\Users\prake\.ivy2\local\org.apache.hadoop\hadoop-yarn-common\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-common;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom
@@ -332,7 +332,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-common;2.2.0!hadoop-yarn-common.pom(pom.original) (135ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-common;2.2.0!hadoop-yarn-common.pom(pom.original) (161ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0
@@ -342,9 +342,9 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-common;2.2.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-api;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-api;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4bff8d3f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2112a0ee
 [info] Resolving org.apache.hadoop#hadoop-yarn-api;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@4bff8d3f
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@2112a0ee
 [debug] 		tried C:\Users\prake\.ivy2\local\org.apache.hadoop\hadoop-yarn-api\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-api;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom
@@ -354,7 +354,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-api;2.2.0!hadoop-yarn-api.pom(pom.original) (195ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-api;2.2.0!hadoop-yarn-api.pom(pom.original) (161ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0
@@ -364,7 +364,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-api;2.2.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.google.inject#guice;3.0 [compile->default(compile)]
 [info] Resolving com.google.inject#guice;3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e54d9db
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30fff870
 [debug] sbt-chain: module revision found in cache: com.google.inject#guice;3.0
 [debug] 	found com.google.inject#guice;3.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.google.inject#guice;3.0 [compile->runtime]
@@ -372,7 +372,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.google.inject#guice;3.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->default(compile)]
 [info] Resolving javax.inject#javax.inject;1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6928a2e7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65943a5c
 [debug] sbt-chain: module revision found in cache: javax.inject#javax.inject;1
 [debug] 	found javax.inject#javax.inject;1 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->runtime]
@@ -380,7 +380,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->default(compile)]
 [info] Resolving aopalliance#aopalliance;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33326480
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1bb49f79
 [debug] sbt-chain: module revision found in cache: aopalliance#aopalliance;1.0
 [debug] 	found aopalliance#aopalliance;1.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->runtime]
@@ -388,7 +388,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->default(compile)]
 [info] Resolving org.sonatype.sisu.inject#cglib;2.2.1-v20090111 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d276c0e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@544378fc
 [debug] sbt-chain: module revision found in cache: org.sonatype.sisu.inject#cglib;2.2.1-v20090111
 [debug] 	found org.sonatype.sisu.inject#cglib;2.2.1-v20090111 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->runtime]
@@ -396,7 +396,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@483266aa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@217c9067
 [debug] sbt-chain: module revision found in cache: com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9
 [debug] 	found com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [compile->runtime]
@@ -404,7 +404,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.jersey#jersey-server;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey#jersey-server;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f69bdaf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4aefb3f5
 [debug] sbt-chain: module revision found in cache: com.sun.jersey#jersey-server;1.9
 [debug] 	found com.sun.jersey#jersey-server;1.9 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.jersey#jersey-server;1.9 [compile->runtime]
@@ -412,7 +412,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.jersey#jersey-server;1.9 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.jersey#jersey-json;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey#jersey-json;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6cddd42b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31f90adc
 [debug] sbt-chain: module revision found in cache: com.sun.jersey#jersey-json;1.9
 [debug] 	found com.sun.jersey#jersey-json;1.9 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.jersey#jersey-json;1.9 [compile->runtime]
@@ -420,7 +420,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.jersey#jersey-json;1.9 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.jettison#jettison;1.1 [compile->default(compile)]
 [info] Resolving org.codehaus.jettison#jettison;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63b1275f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b926323
 [debug] sbt-chain: module revision found in cache: org.codehaus.jettison#jettison;1.1
 [debug] 	found org.codehaus.jettison#jettison;1.1 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.jettison#jettison;1.1 [compile->runtime]
@@ -428,7 +428,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.jettison#jettison;1.1 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.8 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-jaxrs;1.8.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45a2c5c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5628dd1c
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-jaxrs;1.8.8
 [debug] 	found org.codehaus.jackson#jackson-jaxrs;1.8.8 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.8 [compile->runtime]
@@ -436,7 +436,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.8 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.jackson#jackson-xc;1.8.8 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-xc;1.8.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d2e2445
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@772dc4c2
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-xc;1.8.8
 [debug] 	found org.codehaus.jackson#jackson-xc;1.8.8 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.jackson#jackson-xc;1.8.8 [compile->runtime]
@@ -444,7 +444,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.jackson#jackson-xc;1.8.8 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey.contribs#jersey-guice;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@323edc6a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72820397
 [debug] sbt-chain: module revision found in cache: com.sun.jersey.contribs#jersey-guice;1.9
 [debug] 	found com.sun.jersey.contribs#jersey-guice;1.9 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [compile->runtime]
@@ -452,9 +452,9 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-client;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-client;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2abeac63
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b762193
 [info] Resolving org.apache.hadoop#hadoop-yarn-client;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@2abeac63
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@6b762193
 [debug] 		tried C:\Users\prake\.ivy2\local\org.apache.hadoop\hadoop-yarn-client\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-client;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0.pom
@@ -464,7 +464,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-client;2.2.0!hadoop-yarn-client.pom(pom.original) (109ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-client;2.2.0!hadoop-yarn-client.pom(pom.original) (159ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0
@@ -474,9 +474,9 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-client;2.2.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1335a28b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1830c3b0
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@1335a28b
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@1830c3b0
 [debug] 		tried C:\Users\prake\.ivy2\local\org.apache.hadoop\hadoop-mapreduce-client-core\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.pom
@@ -486,7 +486,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0!hadoop-mapreduce-client-core.pom(pom.original) (91ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0!hadoop-mapreduce-client-core.pom(pom.original) (153ms)
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0
@@ -496,9 +496,9 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e0aaae7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@901ab94
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-common;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@6e0aaae7
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@901ab94
 [debug] 		tried C:\Users\prake\.ivy2\local\org.apache.hadoop\hadoop-yarn-server-common\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-server-common;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.2.0/hadoop-yarn-server-common-2.2.0.pom
@@ -508,52 +508,19 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.2.0/hadoop-yarn-server-common-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.2.0/hadoop-yarn-server-common-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.2.0/hadoop-yarn-server-common-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-common;2.2.0!hadoop-yarn-server-common.pom(pom.original) (126ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-common;2.2.0!hadoop-yarn-server-common.pom(pom.original) (166ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn-server;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn-server;2.2.0 {}
-[info] Resolving org.apache.hadoop#hadoop-yarn-server;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn-server;2.2.0 {}
-[debug] 		tried C:\Users\prake\.ivy2\local\org.apache.hadoop\hadoop-yarn-server\2.2.0\ivys\ivy.xml
-[debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-server;2.2.0
-[debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom
-[debug] 	public: found md file for org.apache.hadoop#hadoop-yarn-server;2.2.0
-[debug] 		=> https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom (2.2.0)
-[debug] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server;2.2.0!hadoop-yarn-server.pom(pom.original) (101ms)
-[info] Resolving org.apache.hadoop#hadoop-yarn;2.2.0 ...
-[debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}
-[debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0
-[debug] 		tried C:\Users\prake\.ivy2\local\org.apache.hadoop\hadoop-yarn-server\2.2.0\jars\hadoop-yarn-server.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] 		tried http://repo.akka.io/releases/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] CLIENT ERROR: Not Found url=http://repo.akka.io/releases/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] 		tried https://oss.sonatype.org/content/groups/scala-tools/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] CLIENT ERROR: Forbidden url=https://oss.sonatype.org/content/groups/scala-tools/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] 		tried http://repo.typesafe.com/typesafe/releases/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] 		tried http://repo.typesafe.com/typesafe/maven-releases/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/maven-releases/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] 		tried http://maven2.javacv.googlecode.com/git/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] CLIENT ERROR: Not Found url=http://maven2.javacv.googlecode.com/git/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] 		tried http://maven2.javacpp.googlecode.com/git/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] CLIENT ERROR: Not Found url=http://maven2.javacpp.googlecode.com/git/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] 		tried https://mvnrepository.com/artifact/com.levigo.jbig2/levigo-jbig2-imageio/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] CLIENT ERROR: Not Found url=https://mvnrepository.com/artifact/com.levigo.jbig2/levigo-jbig2-imageio/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] 		tried https://oss.sonatype.org/content/repositories/public/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
-[debug] CLIENT ERROR: Not Found url=https://oss.sonatype.org/content/repositories/public/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.jar
+[debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-server;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-server-common;2.2.0 in public
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->runtime]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->compile]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43858341
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5de34701
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@43858341
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@5de34701
 [debug] 		tried C:\Users\prake\.ivy2\local\org.apache.hadoop\hadoop-mapreduce-client-shuffle\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom
@@ -563,7 +530,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0!hadoop-mapreduce-client-shuffle.pom(pom.original) (450ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0!hadoop-mapreduce-client-shuffle.pom(pom.original) (171ms)
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0
@@ -573,9 +540,9 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@730b086f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e301db4
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@730b086f
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@2e301db4
 [debug] 		tried C:\Users\prake\.ivy2\local\org.apache.hadoop\hadoop-mapreduce-client-jobclient\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.2.0/hadoop-mapreduce-client-jobclient-2.2.0.pom
@@ -585,7 +552,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.2.0/hadoop-mapreduce-client-jobclient-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.2.0/hadoop-mapreduce-client-jobclient-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.2.0/hadoop-mapreduce-client-jobclient-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0!hadoop-mapreduce-client-jobclient.pom(pom.original) (709ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0!hadoop-mapreduce-client-jobclient.pom(pom.original) (169ms)
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0
@@ -595,7 +562,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-launcher_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-launcher_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38eabe5f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16ab890a
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-launcher_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-launcher_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-launcher_2.11;1.6.0 [compile->runtime]
@@ -603,7 +570,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-launcher_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.spark-project.spark#unused;1.0.0 [compile->default(compile)]
 [info] Resolving org.spark-project.spark#unused;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@441b3be2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35d8f6d3
 [debug] sbt-chain: module revision found in cache: org.spark-project.spark#unused;1.0.0
 [debug] 	found org.spark-project.spark#unused;1.0.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.spark-project.spark#unused;1.0.0 [compile->runtime]
@@ -611,7 +578,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.spark-project.spark#unused;1.0.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-network-common_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-network-common_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c6f8cb1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67d146ee
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-network-common_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-network-common_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-network-common_2.11;1.6.0 [compile->runtime]
@@ -619,7 +586,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-network-common_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.netty#netty-all;4.0.29.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-all;4.0.29.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@155e0918
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76872b54
 [debug] sbt-chain: module revision found in cache: io.netty#netty-all;4.0.29.Final
 [debug] 	found io.netty#netty-all;4.0.29.Final in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.netty#netty-all;4.0.29.Final [compile->runtime]
@@ -627,7 +594,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.netty#netty-all;4.0.29.Final [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-network-shuffle_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-network-shuffle_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2881ef7f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2daf8826
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-network-shuffle_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-network-shuffle_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-network-shuffle_2.11;1.6.0 [compile->runtime]
@@ -635,7 +602,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-network-shuffle_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->default(compile)]
 [info] Resolving org.fusesource.leveldbjni#leveldbjni-all;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e5a04d7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d1d8736
 [debug] sbt-chain: module revision found in cache: org.fusesource.leveldbjni#leveldbjni-all;1.8
 [debug] 	found org.fusesource.leveldbjni#leveldbjni-all;1.8 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->runtime]
@@ -643,7 +610,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-databind;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1fd876db
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34e3388
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-databind;2.4.4
 [debug] 	found com.fasterxml.jackson.core#jackson-databind;2.4.4 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.4.4 [compile->runtime]
@@ -651,7 +618,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.4.4 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-core;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5113b54c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a639524
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-core;2.4.4
 [debug] 	found com.fasterxml.jackson.core#jackson-core;2.4.4 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.4.4 [compile->runtime]
@@ -659,7 +626,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.4.4 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-annotations;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b7ccbe2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42515d37
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.4.4
 [debug] 	found com.fasterxml.jackson.core#jackson-annotations;2.4.4 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.4.4 [compile->runtime]
@@ -667,7 +634,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.4.4 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-unsafe_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-unsafe_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54dad2a0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ddec103
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-unsafe_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-unsafe_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-unsafe_2.11;1.6.0 [compile->runtime]
@@ -675,7 +642,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-unsafe_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.java.dev.jets3t#jets3t;0.7.1 [compile->default(compile)]
 [info] Resolving net.java.dev.jets3t#jets3t;0.7.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15082131
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b75749
 [debug] sbt-chain: module revision found in cache: net.java.dev.jets3t#jets3t;0.7.1
 [debug] 	found net.java.dev.jets3t#jets3t;0.7.1 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.java.dev.jets3t#jets3t;0.7.1 [compile->runtime]
@@ -683,7 +650,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.java.dev.jets3t#jets3t;0.7.1 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.curator#curator-recipes;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-recipes;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34970c7a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2dc6e718
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-recipes;2.4.0
 [debug] 	found org.apache.curator#curator-recipes;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.curator#curator-recipes;2.4.0 [compile->runtime]
@@ -691,7 +658,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.curator#curator-recipes;2.4.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.curator#curator-framework;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-framework;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20e8537
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6fe49a94
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-framework;2.4.0
 [debug] 	found org.apache.curator#curator-framework;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.curator#curator-framework;2.4.0 [compile->runtime]
@@ -699,7 +666,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.curator#curator-framework;2.4.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.curator#curator-client;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-client;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b034bd5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@694bd251
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-client;2.4.0
 [debug] 	found org.apache.curator#curator-client;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.curator#curator-client;2.4.0 [compile->runtime]
@@ -707,7 +674,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.curator#curator-client;2.4.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.zookeeper#zookeeper;3.4.5 [compile->default(compile)]
 [info] Resolving org.apache.zookeeper#zookeeper;3.4.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4569b62
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e744dbe
 [debug] sbt-chain: module revision found in cache: org.apache.zookeeper#zookeeper;3.4.5
 [debug] 	found org.apache.zookeeper#zookeeper;3.4.5 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.zookeeper#zookeeper;3.4.5 [compile->runtime]
@@ -715,7 +682,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.zookeeper#zookeeper;3.4.5 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->jline#jline;0.9.94 [compile->default(compile)]
 [info] Resolving jline#jline;0.9.94 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@caea39e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5280d2b2
 [debug] sbt-chain: module revision found in cache: jline#jline;0.9.94
 [debug] 	found jline#jline;0.9.94 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->jline#jline;0.9.94 [compile->runtime]
@@ -723,7 +690,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->jline#jline;0.9.94 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.google.guava#guava;14.0.1 [compile->default(compile)]
 [info] Resolving com.google.guava#guava;14.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c22d881
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68bb971
 [debug] sbt-chain: module revision found in cache: com.google.guava#guava;14.0.1
 [debug] 	found com.google.guava#guava;14.0.1 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.google.guava#guava;14.0.1 [compile->runtime]
@@ -731,7 +698,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.google.guava#guava;14.0.1 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [compile->default(compile)]
 [info] Resolving org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@749599eb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7fc55704
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016
 [debug] 	found org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [compile->runtime]
@@ -739,7 +706,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.commons#commons-lang3;3.3.2 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-lang3;3.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35044564
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4aed1319
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-lang3;3.3.2
 [debug] 	found org.apache.commons#commons-lang3;3.3.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.commons#commons-lang3;3.3.2 [compile->runtime]
@@ -747,7 +714,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.commons#commons-lang3;3.3.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.commons#commons-math3;3.4.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math3;3.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72727d11
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68d95268
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.4.1
 [debug] 	found org.apache.commons#commons-math3;3.4.1 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.commons#commons-math3;3.4.1 [compile->runtime]
@@ -755,7 +722,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.commons#commons-math3;3.4.1 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5efd3282
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3550f996
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.10
 [debug] 	found org.slf4j#slf4j-api;1.7.10 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.10 [compile->runtime]
@@ -763,7 +730,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.10 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#jul-to-slf4j;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3df9ab04
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1dc0dc51
 [debug] sbt-chain: module revision found in cache: org.slf4j#jul-to-slf4j;1.7.10
 [debug] 	found org.slf4j#jul-to-slf4j;1.7.10 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.10 [compile->runtime]
@@ -771,7 +738,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.10 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#jcl-over-slf4j;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d016aa5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61e3f051
 [debug] sbt-chain: module revision found in cache: org.slf4j#jcl-over-slf4j;1.7.10
 [debug] 	found org.slf4j#jcl-over-slf4j;1.7.10 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.10 [compile->runtime]
@@ -779,7 +746,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.10 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-log4j12;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e389c12
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2aa70f20
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-log4j12;1.7.10
 [debug] 	found org.slf4j#slf4j-log4j12;1.7.10 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.10 [compile->runtime]
@@ -787,7 +754,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.10 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.ning#compress-lzf;1.0.3 [compile->default(compile)]
 [info] Resolving com.ning#compress-lzf;1.0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ab48c50
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@186aa69a
 [debug] sbt-chain: module revision found in cache: com.ning#compress-lzf;1.0.3
 [debug] 	found com.ning#compress-lzf;1.0.3 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.ning#compress-lzf;1.0.3 [compile->runtime]
@@ -795,7 +762,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.ning#compress-lzf;1.0.3 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.xerial.snappy#snappy-java;1.1.2 [compile->default(compile)]
 [info] Resolving org.xerial.snappy#snappy-java;1.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22195b6f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ed123da
 [debug] sbt-chain: module revision found in cache: org.xerial.snappy#snappy-java;1.1.2
 [debug] 	found org.xerial.snappy#snappy-java;1.1.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.xerial.snappy#snappy-java;1.1.2 [compile->runtime]
@@ -803,7 +770,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.xerial.snappy#snappy-java;1.1.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.jpountz.lz4#lz4;1.3.0 [compile->default(compile)]
 [info] Resolving net.jpountz.lz4#lz4;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@488caad7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f621be4
 [debug] sbt-chain: module revision found in cache: net.jpountz.lz4#lz4;1.3.0
 [debug] 	found net.jpountz.lz4#lz4;1.3.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.jpountz.lz4#lz4;1.3.0 [compile->runtime]
@@ -811,7 +778,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.jpountz.lz4#lz4;1.3.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.roaringbitmap#RoaringBitmap;0.5.11 [compile->default(compile)]
 [info] Resolving org.roaringbitmap#RoaringBitmap;0.5.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@657d8b30
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3976e9d6
 [debug] sbt-chain: module revision found in cache: org.roaringbitmap#RoaringBitmap;0.5.11
 [debug] 	found org.roaringbitmap#RoaringBitmap;0.5.11 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.roaringbitmap#RoaringBitmap;0.5.11 [compile->runtime]
@@ -819,7 +786,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.roaringbitmap#RoaringBitmap;0.5.11 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-net#commons-net;2.2 [compile->default(compile)]
 [info] Resolving commons-net#commons-net;2.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27e3ed30
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@126aaca1
 [debug] sbt-chain: module revision found in cache: commons-net#commons-net;2.2
 [debug] 	found commons-net#commons-net;2.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-net#commons-net;2.2 [compile->runtime]
@@ -827,7 +794,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-net#commons-net;2.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.3.11 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-remote_2.11;2.3.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f908038
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42986332
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-remote_2.11;2.3.11
 [debug] 	found com.typesafe.akka#akka-remote_2.11;2.3.11 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.3.11 [compile->runtime]
@@ -835,7 +802,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.3.11 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.11 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-actor_2.11;2.3.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cf028e0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d9cba4f
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.3.11
 [debug] 	found com.typesafe.akka#akka-actor_2.11;2.3.11 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.11 [compile->runtime]
@@ -843,7 +810,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.11 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.typesafe#config;1.2.1 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@23bd4ee
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@58c26e81
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.2.1
 [debug] 	found com.typesafe#config;1.2.1 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.typesafe#config;1.2.1 [compile->runtime]
@@ -851,7 +818,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.typesafe#config;1.2.1 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.netty#netty;3.8.0.Final [compile->default(compile)]
 [info] Resolving io.netty#netty;3.8.0.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b5b7736
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60323a76
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.8.0.Final
 [debug] 	found io.netty#netty;3.8.0.Final in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.netty#netty;3.8.0.Final [compile->runtime]
@@ -859,7 +826,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.netty#netty;3.8.0.Final [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->default(compile)]
 [info] Resolving org.uncommons.maths#uncommons-maths;1.2.2a ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@182d70cf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13904202
 [debug] sbt-chain: module revision found in cache: org.uncommons.maths#uncommons-maths;1.2.2a
 [debug] 	found org.uncommons.maths#uncommons-maths;1.2.2a in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime]
@@ -867,7 +834,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.3.11 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-slf4j_2.11;2.3.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@717c63f7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44ec75aa
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-slf4j_2.11;2.3.11
 [debug] 	found com.typesafe.akka#akka-slf4j_2.11;2.3.11 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.3.11 [compile->runtime]
@@ -875,7 +842,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.3.11 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.json4s#json4s-jackson_2.11;3.2.10 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-jackson_2.11;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a829f09
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24593c46
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-jackson_2.11;3.2.10
 [debug] 	found org.json4s#json4s-jackson_2.11;3.2.10 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.json4s#json4s-jackson_2.11;3.2.10 [compile->runtime]
@@ -883,7 +850,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.json4s#json4s-jackson_2.11;3.2.10 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.json4s#json4s-core_2.11;3.2.10 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-core_2.11;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25ee4fe
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c4c2922
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-core_2.11;3.2.10
 [debug] 	found org.json4s#json4s-core_2.11;3.2.10 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.json4s#json4s-core_2.11;3.2.10 [compile->runtime]
@@ -891,7 +858,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.json4s#json4s-core_2.11;3.2.10 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.json4s#json4s-ast_2.11;3.2.10 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-ast_2.11;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7dbdbc11
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3034b3ba
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-ast_2.11;3.2.10
 [debug] 	found org.json4s#json4s-ast_2.11;3.2.10 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.json4s#json4s-ast_2.11;3.2.10 [compile->runtime]
@@ -899,7 +866,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.json4s#json4s-ast_2.11;3.2.10 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->default(compile)]
 [info] Resolving com.thoughtworks.paranamer#paranamer;2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5743ff76
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5026dd74
 [debug] sbt-chain: module revision found in cache: com.thoughtworks.paranamer#paranamer;2.6
 [debug] 	found com.thoughtworks.paranamer#paranamer;2.6 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->runtime]
@@ -907,7 +874,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang#scalap;2.11.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scalap;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24bf74a4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ab90fc0
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scalap;2.11.0
 [debug] 	found org.scala-lang#scalap;2.11.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang#scalap;2.11.0 [compile->runtime]
@@ -915,7 +882,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang#scalap;2.11.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@466af65e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49dbb299
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.0
 [debug] 	found org.scala-lang#scala-compiler;2.11.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.0 [compile->runtime]
@@ -923,7 +890,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45407701
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e1db68
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.1
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.1 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->runtime]
@@ -931,7 +898,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53d1e35f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38e9f2c6
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->runtime]
@@ -939,7 +906,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.jersey#jersey-core;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey#jersey-core;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cefc764
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5da74409
 [debug] sbt-chain: module revision found in cache: com.sun.jersey#jersey-core;1.9
 [debug] 	found com.sun.jersey#jersey-core;1.9 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.jersey#jersey-core;1.9 [compile->runtime]
@@ -947,7 +914,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.jersey#jersey-core;1.9 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.mesos#mesos;0.21.1 [compile->default(compile)]
 [info] Resolving org.apache.mesos#mesos;0.21.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c5d677d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@62ee4528
 [debug] sbt-chain: module revision found in cache: org.apache.mesos#mesos;0.21.1
 [debug] 	found org.apache.mesos#mesos;0.21.1 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.mesos#mesos;0.21.1 [compile->runtime]
@@ -955,7 +922,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.mesos#mesos;0.21.1 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.clearspring.analytics#stream;2.7.0 [compile->default(compile)]
 [info] Resolving com.clearspring.analytics#stream;2.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21171e4a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1bce0f5d
 [debug] sbt-chain: module revision found in cache: com.clearspring.analytics#stream;2.7.0
 [debug] 	found com.clearspring.analytics#stream;2.7.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.clearspring.analytics#stream;2.7.0 [compile->runtime]
@@ -963,7 +930,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.clearspring.analytics#stream;2.7.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.dropwizard.metrics#metrics-core;3.1.2 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-core;3.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35652df2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d478e60
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-core;3.1.2
 [debug] 	found io.dropwizard.metrics#metrics-core;3.1.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.dropwizard.metrics#metrics-core;3.1.2 [compile->runtime]
@@ -971,7 +938,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.dropwizard.metrics#metrics-core;3.1.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.dropwizard.metrics#metrics-jvm;3.1.2 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-jvm;3.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ac9a52c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@288552ee
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-jvm;3.1.2
 [debug] 	found io.dropwizard.metrics#metrics-jvm;3.1.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.dropwizard.metrics#metrics-jvm;3.1.2 [compile->runtime]
@@ -979,7 +946,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.dropwizard.metrics#metrics-jvm;3.1.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.dropwizard.metrics#metrics-json;3.1.2 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-json;3.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@544c1204
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a230a11
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-json;3.1.2
 [debug] 	found io.dropwizard.metrics#metrics-json;3.1.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.dropwizard.metrics#metrics-json;3.1.2 [compile->runtime]
@@ -987,7 +954,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.dropwizard.metrics#metrics-json;3.1.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.dropwizard.metrics#metrics-graphite;3.1.2 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-graphite;3.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@591c9e78
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f3227db
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-graphite;3.1.2
 [debug] 	found io.dropwizard.metrics#metrics-graphite;3.1.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.dropwizard.metrics#metrics-graphite;3.1.2 [compile->runtime]
@@ -995,7 +962,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->io.dropwizard.metrics#metrics-graphite;3.1.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5620b3f0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@409dd72c
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4
 [debug] 	found com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4 [compile->runtime]
@@ -1003,7 +970,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.ivy#ivy;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.ivy#ivy;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e17b0e9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e685aef
 [debug] sbt-chain: module revision found in cache: org.apache.ivy#ivy;2.4.0
 [debug] 	found org.apache.ivy#ivy;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.ivy#ivy;2.4.0 [compile->runtime]
@@ -1011,7 +978,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.ivy#ivy;2.4.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->oro#oro;2.0.8 [compile->default(compile)]
 [info] Resolving oro#oro;2.0.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@122c5363
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2901edb0
 [debug] sbt-chain: module revision found in cache: oro#oro;2.0.8
 [debug] 	found oro#oro;2.0.8 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->oro#oro;2.0.8 [compile->runtime]
@@ -1019,7 +986,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->oro#oro;2.0.8 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.tachyonproject#tachyon-client;0.8.2 [compile->default(compile)]
 [info] Resolving org.tachyonproject#tachyon-client;0.8.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72b9b33c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@664d4fe9
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon-client;0.8.2
 [debug] 	found org.tachyonproject#tachyon-client;0.8.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.tachyonproject#tachyon-client;0.8.2 [compile->runtime]
@@ -1027,7 +994,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.tachyonproject#tachyon-client;0.8.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-io#commons-io;2.4 [compile->default(compile)]
 [info] Resolving commons-io#commons-io;2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79b1aa3a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c3e0059
 [debug] sbt-chain: module revision found in cache: commons-io#commons-io;2.4
 [debug] 	found commons-io#commons-io;2.4 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-io#commons-io;2.4 [compile->runtime]
@@ -1035,7 +1002,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-io#commons-io;2.4 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-hdfs;0.8.2 [compile->default(compile)]
 [info] Resolving org.tachyonproject#tachyon-underfs-hdfs;0.8.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ecb77f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54c9e259
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon-underfs-hdfs;0.8.2
 [debug] 	found org.tachyonproject#tachyon-underfs-hdfs;0.8.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-hdfs;0.8.2 [compile->runtime]
@@ -1043,7 +1010,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-hdfs;0.8.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-s3;0.8.2 [compile->default(compile)]
 [info] Resolving org.tachyonproject#tachyon-underfs-s3;0.8.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e3e8272
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2830b7f0
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon-underfs-s3;0.8.2
 [debug] 	found org.tachyonproject#tachyon-underfs-s3;0.8.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-s3;0.8.2 [compile->runtime]
@@ -1051,7 +1018,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-s3;0.8.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-local;0.8.2 [compile->default(compile)]
 [info] Resolving org.tachyonproject#tachyon-underfs-local;0.8.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@619b58fe
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50645f27
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon-underfs-local;0.8.2
 [debug] 	found org.tachyonproject#tachyon-underfs-local;0.8.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-local;0.8.2 [compile->runtime]
@@ -1059,7 +1026,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-local;0.8.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.razorvine#pyrolite;4.9 [compile->default(compile)]
 [info] Resolving net.razorvine#pyrolite;4.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@163c2afe
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@234cc8bb
 [debug] sbt-chain: module revision found in cache: net.razorvine#pyrolite;4.9
 [debug] 	found net.razorvine#pyrolite;4.9 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.razorvine#pyrolite;4.9 [compile->runtime]
@@ -1067,7 +1034,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.razorvine#pyrolite;4.9 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.sf.py4j#py4j;0.9 [compile->default(compile)]
 [info] Resolving net.sf.py4j#py4j;0.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3320ee68
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@595611d9
 [debug] sbt-chain: module revision found in cache: net.sf.py4j#py4j;0.9
 [debug] 	found net.sf.py4j#py4j;0.9 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.sf.py4j#py4j;0.9 [compile->runtime]
@@ -1075,9 +1042,9 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.sf.py4j#py4j;0.9 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@409792f5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f84404
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@409792f5
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@6f84404
 [debug] 		tried C:\Users\prake\.ivy2\local\org.apache.hadoop\hadoop-yarn-server-nodemanager\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom
@@ -1087,7 +1054,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0!hadoop-yarn-server-nodemanager.pom(pom.original) (743ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0!hadoop-yarn-server-nodemanager.pom(pom.original) (169ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn-server;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn-server;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-server;2.2.0
@@ -1097,7 +1064,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-mllib_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-mllib_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@289a9795
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16d99bb3
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-mllib_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-mllib_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-mllib_2.11;1.6.0 [compile->runtime]
@@ -1105,7 +1072,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-mllib_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-sql_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-sql_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@467aaf9f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d9745d0
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-sql_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-sql_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-sql_2.11;1.6.0 [compile->runtime]
@@ -1113,7 +1080,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-sql_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-catalyst_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-catalyst_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@548ea409
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@528b4a27
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-catalyst_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-catalyst_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-catalyst_2.11;1.6.0 [compile->runtime]
@@ -1121,7 +1088,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-catalyst_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14b374af
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49dc8800
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.7
 [debug] 	found org.scala-lang#scala-reflect;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-reflect;2.11.7
@@ -1130,7 +1097,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.janino#janino;2.7.8 [compile->default(compile)]
 [info] Resolving org.codehaus.janino#janino;2.7.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@639c0205
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@262a4766
 [debug] sbt-chain: module revision found in cache: org.codehaus.janino#janino;2.7.8
 [debug] 	found org.codehaus.janino#janino;2.7.8 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.janino#janino;2.7.8 [compile->runtime]
@@ -1138,7 +1105,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.janino#janino;2.7.8 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.janino#commons-compiler;2.7.8 [compile->default(compile)]
 [info] Resolving org.codehaus.janino#commons-compiler;2.7.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c5851c4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55a06eeb
 [debug] sbt-chain: module revision found in cache: org.codehaus.janino#commons-compiler;2.7.8
 [debug] 	found org.codehaus.janino#commons-compiler;2.7.8 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.janino#commons-compiler;2.7.8 [compile->runtime]
@@ -1146,7 +1113,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.codehaus.janino#commons-compiler;2.7.8 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-column;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-column;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22a26332
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3317f24
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-column;1.7.0
 [debug] 	found org.apache.parquet#parquet-column;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-column;1.7.0 [compile->runtime]
@@ -1154,7 +1121,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-column;1.7.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-common;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-common;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37a445ed
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55321156
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-common;1.7.0
 [debug] 	found org.apache.parquet#parquet-common;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-common;1.7.0 [compile->runtime]
@@ -1162,7 +1129,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-common;1.7.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-encoding;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-encoding;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6fc0bcf7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@dcf7111
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-encoding;1.7.0
 [debug] 	found org.apache.parquet#parquet-encoding;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-encoding;1.7.0 [compile->runtime]
@@ -1170,7 +1137,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-encoding;1.7.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-generator;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-generator;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6fbad9c1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2bc366e7
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-generator;1.7.0
 [debug] 	found org.apache.parquet#parquet-generator;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-generator;1.7.0 [compile->runtime]
@@ -1178,7 +1145,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-generator;1.7.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-codec#commons-codec;1.5 [compile->default(compile)]
 [info] Resolving commons-codec#commons-codec;1.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16660441
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f5c10ca
 [debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.5
 [debug] 	found commons-codec#commons-codec;1.5 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-codec#commons-codec;1.5 [compile->runtime]
@@ -1186,7 +1153,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-codec#commons-codec;1.5 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-hadoop;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-hadoop;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7fed91eb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33bf34e5
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-hadoop;1.7.0
 [debug] 	found org.apache.parquet#parquet-hadoop;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-hadoop;1.7.0 [compile->runtime]
@@ -1194,7 +1161,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-hadoop;1.7.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-format;2.3.0-incubating [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-format;2.3.0-incubating ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71e425a0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79786946
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-format;2.3.0-incubating
 [debug] 	found org.apache.parquet#parquet-format;2.3.0-incubating in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-format;2.3.0-incubating [compile->runtime]
@@ -1202,7 +1169,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-format;2.3.0-incubating [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-jackson;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-jackson;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44e87225
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bd865e0
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-jackson;1.7.0
 [debug] 	found org.apache.parquet#parquet-jackson;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-jackson;1.7.0 [compile->runtime]
@@ -1210,7 +1177,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.parquet#parquet-jackson;1.7.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-graphx_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-graphx_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f87bd73
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@564e3cf5
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-graphx_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-graphx_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-graphx_2.11;1.6.0 [compile->runtime]
@@ -1218,7 +1185,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.apache.spark#spark-graphx_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#core;1.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42e7fc95
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5faf4d1e
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#core;1.1.2
 [debug] 	found com.github.fommil.netlib#core;1.1.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->runtime]
@@ -1226,7 +1193,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scalanlp#breeze_2.11;0.11.2 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze_2.11;0.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76cdc235
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e81beaf
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze_2.11;0.11.2
 [debug] 	found org.scalanlp#breeze_2.11;0.11.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scalanlp#breeze_2.11;0.11.2 [compile->runtime]
@@ -1234,7 +1201,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scalanlp#breeze_2.11;0.11.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.11.2 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze-macros_2.11;0.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70b0d6eb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@cd55793
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze-macros_2.11;0.11.2
 [debug] 	found org.scalanlp#breeze-macros_2.11;0.11.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.11.2 [compile->runtime]
@@ -1242,7 +1209,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.11.2 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->default(compile)]
 [info] Resolving net.sf.opencsv#opencsv;2.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7eb821bc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41bcb1e5
 [debug] sbt-chain: module revision found in cache: net.sf.opencsv#opencsv;2.3
 [debug] 	found net.sf.opencsv#opencsv;2.3 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->runtime]
@@ -1250,7 +1217,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->default(compile)]
 [info] Resolving com.github.rwl#jtransforms;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a628053
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43aa9ff0
 [debug] sbt-chain: module revision found in cache: com.github.rwl#jtransforms;2.4.0
 [debug] 	found com.github.rwl#jtransforms;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->runtime]
@@ -1258,7 +1225,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.spire-math#spire_2.11;0.7.4 [compile->default(compile)]
 [info] Resolving org.spire-math#spire_2.11;0.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20ba49f1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@417fab2c
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire_2.11;0.7.4
 [debug] 	found org.spire-math#spire_2.11;0.7.4 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.spire-math#spire_2.11;0.7.4 [compile->runtime]
@@ -1266,7 +1233,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.spire-math#spire_2.11;0.7.4 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.spire-math#spire-macros_2.11;0.7.4 [compile->default(compile)]
 [info] Resolving org.spire-math#spire-macros_2.11;0.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@12b9ff3e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@518e3373
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire-macros_2.11;0.7.4
 [debug] 	found org.spire-math#spire-macros_2.11;0.7.4 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.spire-math#spire-macros_2.11;0.7.4 [compile->runtime]
@@ -1274,7 +1241,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.spire-math#spire-macros_2.11;0.7.4 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.jpmml#pmml-model;1.1.15 [compile->default(compile)]
 [info] Resolving org.jpmml#pmml-model;1.1.15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@162eb14e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e93dc3a
 [debug] sbt-chain: module revision found in cache: org.jpmml#pmml-model;1.1.15
 [debug] 	found org.jpmml#pmml-model;1.1.15 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.jpmml#pmml-model;1.1.15 [compile->runtime]
@@ -1282,7 +1249,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.jpmml#pmml-model;1.1.15 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.jpmml#pmml-agent;1.1.15 [compile->default(compile)]
 [info] Resolving org.jpmml#pmml-agent;1.1.15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b4797c5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10456c11
 [debug] sbt-chain: module revision found in cache: org.jpmml#pmml-agent;1.1.15
 [debug] 	found org.jpmml#pmml-agent;1.1.15 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.jpmml#pmml-agent;1.1.15 [compile->runtime]
@@ -1290,7 +1257,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.jpmml#pmml-agent;1.1.15 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.jpmml#pmml-schema;1.1.15 [compile->default(compile)]
 [info] Resolving org.jpmml#pmml-schema;1.1.15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45d36c03
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@47f8568b
 [debug] sbt-chain: module revision found in cache: org.jpmml#pmml-schema;1.1.15
 [debug] 	found org.jpmml#pmml-schema;1.1.15 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.jpmml#pmml-schema;1.1.15 [compile->runtime]
@@ -1298,7 +1265,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.jpmml#pmml-schema;1.1.15 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.xml.bind#jaxb-impl;2.2.7 [compile->default(compile)]
 [info] Resolving com.sun.xml.bind#jaxb-impl;2.2.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d5c89ab
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45a5e04a
 [debug] sbt-chain: module revision found in cache: com.sun.xml.bind#jaxb-impl;2.2.7
 [debug] 	found com.sun.xml.bind#jaxb-impl;2.2.7 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.xml.bind#jaxb-impl;2.2.7 [compile->runtime]
@@ -1306,7 +1273,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.xml.bind#jaxb-impl;2.2.7 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.xml.bind#jaxb-core;2.2.7 [compile->default(compile)]
 [info] Resolving com.sun.xml.bind#jaxb-core;2.2.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38686596
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e5f67b2
 [debug] sbt-chain: module revision found in cache: com.sun.xml.bind#jaxb-core;2.2.7
 [debug] 	found com.sun.xml.bind#jaxb-core;2.2.7 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.xml.bind#jaxb-core;2.2.7 [compile->runtime]
@@ -1314,7 +1281,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.xml.bind#jaxb-core;2.2.7 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->javax.xml.bind#jaxb-api;2.2.7 [compile->default(compile)]
 [info] Resolving javax.xml.bind#jaxb-api;2.2.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50d18c9a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e4bc57b
 [debug] sbt-chain: module revision found in cache: javax.xml.bind#jaxb-api;2.2.7
 [debug] 	found javax.xml.bind#jaxb-api;2.2.7 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->javax.xml.bind#jaxb-api;2.2.7 [compile->runtime]
@@ -1322,7 +1289,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->javax.xml.bind#jaxb-api;2.2.7 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.istack#istack-commons-runtime;2.16 [compile->default(compile)]
 [info] Resolving com.sun.istack#istack-commons-runtime;2.16 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30c01d84
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57033d7b
 [debug] sbt-chain: module revision found in cache: com.sun.istack#istack-commons-runtime;2.16
 [debug] 	found com.sun.istack#istack-commons-runtime;2.16 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.istack#istack-commons-runtime;2.16 [compile->runtime]
@@ -1330,7 +1297,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.istack#istack-commons-runtime;2.16 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.xml.fastinfoset#FastInfoset;1.2.12 [compile->default(compile)]
 [info] Resolving com.sun.xml.fastinfoset#FastInfoset;1.2.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7bd81807
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27df51
 [debug] sbt-chain: module revision found in cache: com.sun.xml.fastinfoset#FastInfoset;1.2.12
 [debug] 	found com.sun.xml.fastinfoset#FastInfoset;1.2.12 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.xml.fastinfoset#FastInfoset;1.2.12 [compile->runtime]
@@ -1338,7 +1305,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.sun.xml.fastinfoset#FastInfoset;1.2.12 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco#javacpp;0.11 [compile->default(compile)]
 [info] Resolving org.bytedeco#javacpp;0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@625e2979
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@495cdc77
 [debug] sbt-chain: module revision found in cache: org.bytedeco#javacpp;0.11
 [debug] 	found org.bytedeco#javacpp;0.11 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco#javacpp;0.11 [compile->runtime]
@@ -1346,7 +1313,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco#javacpp;0.11 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco#javacv;0.11 [compile->default(compile)]
 [info] Resolving org.bytedeco#javacv;0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b45b9bb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@208b6213
 [debug] sbt-chain: module revision found in cache: org.bytedeco#javacv;0.11
 [debug] 	found org.bytedeco#javacv;0.11 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco#javacv;0.11 [compile->runtime]
@@ -1354,7 +1321,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco#javacv;0.11 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#opencv;2.4.11-0.11 [compile->default(compile)]
 [info] Resolving org.bytedeco.javacpp-presets#opencv;2.4.11-0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a2e299f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c33e3a1
 [debug] sbt-chain: module revision found in cache: org.bytedeco.javacpp-presets#opencv;2.4.11-0.11
 [debug] 	found org.bytedeco.javacpp-presets#opencv;2.4.11-0.11 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#opencv;2.4.11-0.11 [compile->runtime]
@@ -1362,7 +1329,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#opencv;2.4.11-0.11 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#ffmpeg;2.6.1-0.11 [compile->default(compile)]
 [info] Resolving org.bytedeco.javacpp-presets#ffmpeg;2.6.1-0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10de31ae
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7cf288df
 [debug] sbt-chain: module revision found in cache: org.bytedeco.javacpp-presets#ffmpeg;2.6.1-0.11
 [debug] 	found org.bytedeco.javacpp-presets#ffmpeg;2.6.1-0.11 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#ffmpeg;2.6.1-0.11 [compile->runtime]
@@ -1370,7 +1337,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#ffmpeg;2.6.1-0.11 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#flycapture;2.7.3.19-0.11 [compile->default(compile)]
 [info] Resolving org.bytedeco.javacpp-presets#flycapture;2.7.3.19-0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c388fe7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a38d3a3
 [debug] sbt-chain: module revision found in cache: org.bytedeco.javacpp-presets#flycapture;2.7.3.19-0.11
 [debug] 	found org.bytedeco.javacpp-presets#flycapture;2.7.3.19-0.11 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#flycapture;2.7.3.19-0.11 [compile->runtime]
@@ -1378,7 +1345,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#flycapture;2.7.3.19-0.11 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#libdc1394;2.2.3-0.11 [compile->default(compile)]
 [info] Resolving org.bytedeco.javacpp-presets#libdc1394;2.2.3-0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@23a97871
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@324875fc
 [debug] sbt-chain: module revision found in cache: org.bytedeco.javacpp-presets#libdc1394;2.2.3-0.11
 [debug] 	found org.bytedeco.javacpp-presets#libdc1394;2.2.3-0.11 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#libdc1394;2.2.3-0.11 [compile->runtime]
@@ -1386,7 +1353,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#libdc1394;2.2.3-0.11 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#libfreenect;0.5.2-0.11 [compile->default(compile)]
 [info] Resolving org.bytedeco.javacpp-presets#libfreenect;0.5.2-0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ae8df50
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5aac843c
 [debug] sbt-chain: module revision found in cache: org.bytedeco.javacpp-presets#libfreenect;0.5.2-0.11
 [debug] 	found org.bytedeco.javacpp-presets#libfreenect;0.5.2-0.11 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#libfreenect;0.5.2-0.11 [compile->runtime]
@@ -1394,7 +1361,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#libfreenect;0.5.2-0.11 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#videoinput;0.200-0.11 [compile->default(compile)]
 [info] Resolving org.bytedeco.javacpp-presets#videoinput;0.200-0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b9bfc07
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43a31b47
 [debug] sbt-chain: module revision found in cache: org.bytedeco.javacpp-presets#videoinput;0.200-0.11
 [debug] 	found org.bytedeco.javacpp-presets#videoinput;0.200-0.11 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#videoinput;0.200-0.11 [compile->runtime]
@@ -1402,7 +1369,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#videoinput;0.200-0.11 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#artoolkitplus;2.3.1-0.11 [compile->default(compile)]
 [info] Resolving org.bytedeco.javacpp-presets#artoolkitplus;2.3.1-0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@23f0c627
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@118338f9
 [debug] sbt-chain: module revision found in cache: org.bytedeco.javacpp-presets#artoolkitplus;2.3.1-0.11
 [debug] 	found org.bytedeco.javacpp-presets#artoolkitplus;2.3.1-0.11 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#artoolkitplus;2.3.1-0.11 [compile->runtime]
@@ -1410,7 +1377,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#artoolkitplus;2.3.1-0.11 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#flandmark;1.07-0.11 [compile->default(compile)]
 [info] Resolving org.bytedeco.javacpp-presets#flandmark;1.07-0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35f6f9ce
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14632338
 [debug] sbt-chain: module revision found in cache: org.bytedeco.javacpp-presets#flandmark;1.07-0.11
 [debug] 	found org.bytedeco.javacpp-presets#flandmark;1.07-0.11 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#flandmark;1.07-0.11 [compile->runtime]
@@ -1418,7 +1385,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.bytedeco.javacpp-presets#flandmark;1.07-0.11 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.databinder#unfiltered-filter_2.11;0.8.3 [compile->default(compile)]
 [info] Resolving net.databinder#unfiltered-filter_2.11;0.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@47c0b81b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20bf6996
 [debug] sbt-chain: module revision found in cache: net.databinder#unfiltered-filter_2.11;0.8.3
 [debug] 	found net.databinder#unfiltered-filter_2.11;0.8.3 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.databinder#unfiltered-filter_2.11;0.8.3 [compile->runtime]
@@ -1426,7 +1393,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.databinder#unfiltered-filter_2.11;0.8.3 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.databinder#unfiltered_2.11;0.8.3 [compile->default(compile)]
 [info] Resolving net.databinder#unfiltered_2.11;0.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4559a2ae
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d64c8b7
 [debug] sbt-chain: module revision found in cache: net.databinder#unfiltered_2.11;0.8.3
 [debug] 	found net.databinder#unfiltered_2.11;0.8.3 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.databinder#unfiltered_2.11;0.8.3 [compile->runtime]
@@ -1434,7 +1401,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.databinder#unfiltered_2.11;0.8.3 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.databinder#unfiltered-util_2.11;0.8.3 [compile->default(compile)]
 [info] Resolving net.databinder#unfiltered-util_2.11;0.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43cbc269
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a469032
 [debug] sbt-chain: module revision found in cache: net.databinder#unfiltered-util_2.11;0.8.3
 [debug] 	found net.databinder#unfiltered-util_2.11;0.8.3 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.databinder#unfiltered-util_2.11;0.8.3 [compile->runtime]
@@ -1442,7 +1409,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.databinder#unfiltered-util_2.11;0.8.3 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.databinder#unfiltered-jetty_2.11;0.8.3 [compile->default(compile)]
 [info] Resolving net.databinder#unfiltered-jetty_2.11;0.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67240762
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e66ef
 [debug] sbt-chain: module revision found in cache: net.databinder#unfiltered-jetty_2.11;0.8.3
 [debug] 	found net.databinder#unfiltered-jetty_2.11;0.8.3 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.databinder#unfiltered-jetty_2.11;0.8.3 [compile->runtime]
@@ -1450,7 +1417,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.databinder#unfiltered-jetty_2.11;0.8.3 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-webapp;8.1.13.v20130916 [compile->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-webapp;8.1.13.v20130916 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14474f8f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4007466b
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-webapp;8.1.13.v20130916
 [debug] 	found org.eclipse.jetty#jetty-webapp;8.1.13.v20130916 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-webapp;8.1.13.v20130916 [compile->runtime]
@@ -1458,7 +1425,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-webapp;8.1.13.v20130916 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-xml;8.1.13.v20130916 [compile->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-xml;8.1.13.v20130916 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3036d43a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c95f7d3
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-xml;8.1.13.v20130916
 [debug] 	found org.eclipse.jetty#jetty-xml;8.1.13.v20130916 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-xml;8.1.13.v20130916 [compile->runtime]
@@ -1466,7 +1433,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-xml;8.1.13.v20130916 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-util;8.1.13.v20130916 [compile->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-util;8.1.13.v20130916 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66c62ee0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b106e66
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-util;8.1.13.v20130916
 [debug] 	found org.eclipse.jetty#jetty-util;8.1.13.v20130916 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-util;8.1.13.v20130916 [compile->runtime]
@@ -1474,7 +1441,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-util;8.1.13.v20130916 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-servlet;8.1.13.v20130916 [compile->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-servlet;8.1.13.v20130916 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e799330
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c45e67a
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-servlet;8.1.13.v20130916
 [debug] 	found org.eclipse.jetty#jetty-servlet;8.1.13.v20130916 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-servlet;8.1.13.v20130916 [compile->runtime]
@@ -1482,7 +1449,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-servlet;8.1.13.v20130916 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-security;8.1.13.v20130916 [compile->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-security;8.1.13.v20130916 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@576b4277
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19579a40
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-security;8.1.13.v20130916
 [debug] 	found org.eclipse.jetty#jetty-security;8.1.13.v20130916 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-security;8.1.13.v20130916 [compile->runtime]
@@ -1490,7 +1457,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-security;8.1.13.v20130916 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-server;8.1.13.v20130916 [compile->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-server;8.1.13.v20130916 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38687326
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36ddd93c
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-server;8.1.13.v20130916
 [debug] 	found org.eclipse.jetty#jetty-server;8.1.13.v20130916 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-server;8.1.13.v20130916 [compile->runtime]
@@ -1498,7 +1465,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-server;8.1.13.v20130916 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-continuation;8.1.13.v20130916 [compile->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-continuation;8.1.13.v20130916 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6883fe15
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c5d347f
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-continuation;8.1.13.v20130916
 [debug] 	found org.eclipse.jetty#jetty-continuation;8.1.13.v20130916 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-continuation;8.1.13.v20130916 [compile->runtime]
@@ -1506,7 +1473,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-continuation;8.1.13.v20130916 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-http;8.1.13.v20130916 [compile->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-http;8.1.13.v20130916 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24fbfd88
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e54dfa7
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-http;8.1.13.v20130916
 [debug] 	found org.eclipse.jetty#jetty-http;8.1.13.v20130916 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-http;8.1.13.v20130916 [compile->runtime]
@@ -1514,7 +1481,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-http;8.1.13.v20130916 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-io;8.1.13.v20130916 [compile->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-io;8.1.13.v20130916 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c618623
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d9c4e51
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-io;8.1.13.v20130916
 [debug] 	found org.eclipse.jetty#jetty-io;8.1.13.v20130916 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-io;8.1.13.v20130916 [compile->runtime]
@@ -1522,7 +1489,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.eclipse.jetty#jetty-io;8.1.13.v20130916 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.databinder#unfiltered-directives_2.11;0.8.3 [compile->default(compile)]
 [info] Resolving net.databinder#unfiltered-directives_2.11;0.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d9d0f26
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36c07189
 [debug] sbt-chain: module revision found in cache: net.databinder#unfiltered-directives_2.11;0.8.3
 [debug] 	found net.databinder#unfiltered-directives_2.11;0.8.3 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.databinder#unfiltered-directives_2.11;0.8.3 [compile->runtime]
@@ -1530,7 +1497,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->net.databinder#unfiltered-directives_2.11;0.8.3 [compile->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.levigo.jbig2#levigo-jbig2-imageio;1.6.5 [compile->default(compile)]
 [info] Resolving com.levigo.jbig2#levigo-jbig2-imageio;1.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6907afd5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33775b8a
 [debug] sbt-chain: module revision found in cache: com.levigo.jbig2#levigo-jbig2-imageio;1.6.5
 [debug] 	found com.levigo.jbig2#levigo-jbig2-imageio;1.6.5 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.levigo.jbig2#levigo-jbig2-imageio;1.6.5 [compile->runtime]
@@ -2878,7 +2845,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->com.levigo.jbig2#levigo-jbig2-imageio;1.6.5 [runtime->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-net#commons-net;3.1 [runtime->default(compile)]
 [info] Resolving commons-net#commons-net;3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cfcce29
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a088123
 [debug] sbt-chain: module revision found in cache: commons-net#commons-net;3.1
 [debug] 	found commons-net#commons-net;3.1 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-net#commons-net;3.1 [runtime->runtime]
@@ -4897,7 +4864,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->commons-net#commons-net;3.1 [test->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.1 [test->default(compile)]
 [info] Resolving org.scalatest#scalatest_2.11;2.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@257f31a1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3268d99
 [debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.11;2.2.1
 [debug] 	found org.scalatest#scalatest_2.11;2.2.1 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.1 [test->runtime]
@@ -4905,7 +4872,7 @@
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.1 [test->master]
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76f9d1c8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41b22964
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.2 in sbt-chain
 [debug] == resolving dependencies default#image_classification$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->runtime]
@@ -12708,8 +12675,8 @@
 [debug] 	[NOT REQUIRED] io.dropwizard.metrics#metrics-jvm;3.1.2!metrics-jvm.jar(src)
 [debug] 	[NOT REQUIRED] io.dropwizard.metrics#metrics-json;3.1.2!metrics-json.jar
 [debug] 	[NOT REQUIRED] io.dropwizard.metrics#metrics-json;3.1.2!metrics-json.jar(src)
-[debug] 	[NOT REQUIRED] io.dropwizard.metrics#metrics-graphite;3.1.2!metrics-graphite.jar(src)
 [debug] 	[NOT REQUIRED] io.dropwizard.metrics#metrics-graphite;3.1.2!metrics-graphite.jar
+[debug] 	[NOT REQUIRED] io.dropwizard.metrics#metrics-graphite;3.1.2!metrics-graphite.jar(src)
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4!jackson-module-scala_2.11.jar
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4!jackson-module-scala_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.ivy#ivy;2.4.0!ivy.jar
@@ -12861,18 +12828,18 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
-[debug] :: resolution report :: resolve 51799ms :: artifacts dl 379ms
-[debug] 	report for default#image_classification$sources_2.11;1.0 compile produced in C:\Users\prake\Downloads\CS5542-Tutorial5SourceCode\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-compile.xml
-[debug] 	report for default#image_classification$sources_2.11;1.0 runtime produced in C:\Users\prake\Downloads\CS5542-Tutorial5SourceCode\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-runtime.xml
-[debug] 	report for default#image_classification$sources_2.11;1.0 test produced in C:\Users\prake\Downloads\CS5542-Tutorial5SourceCode\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-test.xml
-[debug] 	report for default#image_classification$sources_2.11;1.0 provided produced in C:\Users\prake\Downloads\CS5542-Tutorial5SourceCode\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-provided.xml
-[debug] 	report for default#image_classification$sources_2.11;1.0 optional produced in C:\Users\prake\Downloads\CS5542-Tutorial5SourceCode\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-optional.xml
-[debug] 	report for default#image_classification$sources_2.11;1.0 compile-internal produced in C:\Users\prake\Downloads\CS5542-Tutorial5SourceCode\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-compile-internal.xml
-[debug] 	report for default#image_classification$sources_2.11;1.0 runtime-internal produced in C:\Users\prake\Downloads\CS5542-Tutorial5SourceCode\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-runtime-internal.xml
-[debug] 	report for default#image_classification$sources_2.11;1.0 test-internal produced in C:\Users\prake\Downloads\CS5542-Tutorial5SourceCode\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-test-internal.xml
-[debug] 	report for default#image_classification$sources_2.11;1.0 plugin produced in C:\Users\prake\Downloads\CS5542-Tutorial5SourceCode\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-plugin.xml
-[debug] 	report for default#image_classification$sources_2.11;1.0 sources produced in C:\Users\prake\Downloads\CS5542-Tutorial5SourceCode\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-sources.xml
-[debug] 	report for default#image_classification$sources_2.11;1.0 docs produced in C:\Users\prake\Downloads\CS5542-Tutorial5SourceCode\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-docs.xml
-[debug] 	report for default#image_classification$sources_2.11;1.0 pom produced in C:\Users\prake\Downloads\CS5542-Tutorial5SourceCode\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-pom.xml
-[debug] 	report for default#image_classification$sources_2.11;1.0 scala-tool produced in C:\Users\prake\Downloads\CS5542-Tutorial5SourceCode\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-scala-tool.xml
-[debug] 	resolve done (51799ms resolve - 379ms download)
+[debug] :: resolution report :: resolve 10815ms :: artifacts dl 326ms
+[debug] 	report for default#image_classification$sources_2.11;1.0 compile produced in C:\Users\prake\OneDrive\Documents\GitHub\BigDataAnalytics-Assignments\LabAssignment5\Source\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-compile.xml
+[debug] 	report for default#image_classification$sources_2.11;1.0 runtime produced in C:\Users\prake\OneDrive\Documents\GitHub\BigDataAnalytics-Assignments\LabAssignment5\Source\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-runtime.xml
+[debug] 	report for default#image_classification$sources_2.11;1.0 test produced in C:\Users\prake\OneDrive\Documents\GitHub\BigDataAnalytics-Assignments\LabAssignment5\Source\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-test.xml
+[debug] 	report for default#image_classification$sources_2.11;1.0 provided produced in C:\Users\prake\OneDrive\Documents\GitHub\BigDataAnalytics-Assignments\LabAssignment5\Source\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-provided.xml
+[debug] 	report for default#image_classification$sources_2.11;1.0 optional produced in C:\Users\prake\OneDrive\Documents\GitHub\BigDataAnalytics-Assignments\LabAssignment5\Source\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-optional.xml
+[debug] 	report for default#image_classification$sources_2.11;1.0 compile-internal produced in C:\Users\prake\OneDrive\Documents\GitHub\BigDataAnalytics-Assignments\LabAssignment5\Source\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-compile-internal.xml
+[debug] 	report for default#image_classification$sources_2.11;1.0 runtime-internal produced in C:\Users\prake\OneDrive\Documents\GitHub\BigDataAnalytics-Assignments\LabAssignment5\Source\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-runtime-internal.xml
+[debug] 	report for default#image_classification$sources_2.11;1.0 test-internal produced in C:\Users\prake\OneDrive\Documents\GitHub\BigDataAnalytics-Assignments\LabAssignment5\Source\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-test-internal.xml
+[debug] 	report for default#image_classification$sources_2.11;1.0 plugin produced in C:\Users\prake\OneDrive\Documents\GitHub\BigDataAnalytics-Assignments\LabAssignment5\Source\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-plugin.xml
+[debug] 	report for default#image_classification$sources_2.11;1.0 sources produced in C:\Users\prake\OneDrive\Documents\GitHub\BigDataAnalytics-Assignments\LabAssignment5\Source\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-sources.xml
+[debug] 	report for default#image_classification$sources_2.11;1.0 docs produced in C:\Users\prake\OneDrive\Documents\GitHub\BigDataAnalytics-Assignments\LabAssignment5\Source\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-docs.xml
+[debug] 	report for default#image_classification$sources_2.11;1.0 pom produced in C:\Users\prake\OneDrive\Documents\GitHub\BigDataAnalytics-Assignments\LabAssignment5\Source\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-pom.xml
+[debug] 	report for default#image_classification$sources_2.11;1.0 scala-tool produced in C:\Users\prake\OneDrive\Documents\GitHub\BigDataAnalytics-Assignments\LabAssignment5\Source\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-scala-tool.xml
+[debug] 	resolve done (10815ms resolve - 326ms download)

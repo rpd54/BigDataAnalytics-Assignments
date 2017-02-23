@@ -7,9 +7,6 @@ import org.bytedeco.javacpp.opencv_nonfree.SIFT
 import scala.collection.mutable
 import scala.collection.mutable.ArrayBuffer
 
-/**
-  * Created by pradyumnad on 17/07/15.
-  */
 object ImageUtils {
 
   def descriptors(file: String): Mat = {

@@ -11,7 +11,7 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 
 object IPApp {
-  val IMAGE_CATEGORIES = List("airplanes", "bonsai", "buddha" )
+  val IMAGE_CATEGORIES = List("basketball", "cricketball", "volleyball" )
 
   /**
     * @note Test method for classification on Spark

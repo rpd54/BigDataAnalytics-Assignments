@@ -1,7 +1,6 @@
 [debug] Other repositories:
 [debug] Default repositories:
 [debug] Using inline dependencies specified in Scala.
-[debug] no default cache defined: set to C:\Users\prake\.ivy2\cache
 [debug] :: resolving dependencies :: default#image_classification$sbt_2.11;1.0
 [debug] 	confs: [default]
 [debug] 	validate = true
@@ -99,6 +98,7 @@
 [debug] == resolving dependencies org.scala-sbt#classpath;0.13.8->org.scala-sbt#io;0.13.8 [compile->default(compile)]
 [info] Resolving org.scala-sbt#io;0.13.8 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#io;0.13.8 {compile=[default(compile)]}
+[debug] no default cache defined: set to C:\Users\prake\.ivy2\cache
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#io;0.13.8
 [debug] 	found org.scala-sbt#io;0.13.8 in sbt-chain
 [debug] == resolving dependencies org.scala-sbt#io;0.13.8->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
@@ -704,9 +704,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 2193ms :: artifacts dl 54ms
-[debug] 	report for default#image_classification$sbt_2.11;1.0 default produced in C:\Users\prake\Downloads\CS5542-Tutorial5SourceCode\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sbt_2.11-default.xml
-[debug] 	resolve done (2193ms resolve - 54ms download)
+[debug] :: resolution report :: resolve 705ms :: artifacts dl 52ms
+[debug] 	report for default#image_classification$sbt_2.11;1.0 default produced in C:\Users\prake\OneDrive\Documents\GitHub\BigDataAnalytics-Assignments\LabAssignment5\Source\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sbt_2.11-default.xml
+[debug] 	resolve done (705ms resolve - 52ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#image_classification$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1070,6 +1070,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 187ms :: artifacts dl 43ms
-[debug] 	report for default#image_classification$sources_2.11;1.0 default produced in C:\Users\prake\Downloads\CS5542-Tutorial5SourceCode\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-default.xml
-[debug] 	resolve done (187ms resolve - 43ms download)
+[debug] :: resolution report :: resolve 215ms :: artifacts dl 81ms
+[debug] 	report for default#image_classification$sources_2.11;1.0 default produced in C:\Users\prake\OneDrive\Documents\GitHub\BigDataAnalytics-Assignments\LabAssignment5\Source\ImageClassification\image_classification\target\resolution-cache\reports\default-image_classification$sources_2.11-default.xml
+[debug] 	resolve done (215ms resolve - 81ms download)
