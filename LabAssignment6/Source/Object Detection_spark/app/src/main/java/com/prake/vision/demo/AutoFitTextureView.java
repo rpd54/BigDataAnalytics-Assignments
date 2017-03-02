@@ -1,4 +1,4 @@
-package com.tzutalin.vision.demo;
+package com.prake.vision.demo;
 
 /**
  * Created by darrenl on 2015/9/10.

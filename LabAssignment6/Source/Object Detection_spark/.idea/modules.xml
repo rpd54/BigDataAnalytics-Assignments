@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android-Object-Detection.iml" filepath="$PROJECT_DIR$/Android-Object-Detection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Detection_spark.iml" filepath="$PROJECT_DIR$/Object Detection_spark.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/cnnlibs/cnnlibs.iml" filepath="$PROJECT_DIR$/cnnlibs/cnnlibs.iml" />
     </modules>
