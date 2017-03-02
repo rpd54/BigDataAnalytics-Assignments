@@ -9,7 +9,7 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 object ImageClassification_DT {
   def main(args: Array[String]) {
-    val IMAGE_CATEGORIES = Array("Beaver", "Bird", "SeaLion")
+    val IMAGE_CATEGORIES = Array("car","highway","traffic")
     System.setProperty("hadoop.home.dir", "C:\\Users\\prake\\Documents\\winutils")
     // Turn off Info Logger for Consolexxx
     Logger.getLogger("org").setLevel(Level.OFF);

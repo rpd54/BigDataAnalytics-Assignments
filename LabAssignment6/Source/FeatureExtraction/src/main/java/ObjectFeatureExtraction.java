@@ -6,16 +6,13 @@ import org.openimaj.image.feature.local.keypoints.Keypoint;
 
 import java.io.*;
 
-/**
- * Created by Naga on 20-09-2016.
- */
+
 public class ObjectFeatureExtraction {
     public static void main(String args[]) throws IOException {
         String inputFolder = "data/";
-        String inputImage = "beaver.jpg";
-        String outputFolder = "output/";
-        String[] IMAGE_CATEGORIES = {"Beaver", "Bird", "SeaLion"};
-
+        String inputImage = "traffic.jpg";
+        String outputFolder = "output/" ;
+        String[] IMAGE_CATEGORIES = {"traffic"};
         int input_class = 0;
         MBFImage mbfImage = ImageUtilities.readMBF(new File(inputFolder + inputImage));
         DoGSIFTEngine doGSIFTEngine = new DoGSIFTEngine();

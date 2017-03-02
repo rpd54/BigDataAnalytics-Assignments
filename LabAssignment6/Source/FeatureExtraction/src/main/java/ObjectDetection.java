@@ -29,9 +29,6 @@ import java.io.IOException;
 import java.util.List;
 //import org.openimaj.math.geometry.shape.Polygon;
 
-/**
- * Created by Naga on 16-09-2016.
- */
 public class ObjectDetection {
 
     public static void main(String args[]) throws IOException {

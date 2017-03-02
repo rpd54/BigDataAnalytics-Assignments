@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="runtime"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20170301201649"/>
+		date="20170301223706"/>
 	<dependencies>
 		<module organisation="org.apache.spark" name="spark-mllib_2.11">
 			<revision name="2.0.0" status="release" pubdate="20160719181641" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://spark.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="113">
@@ -17,7 +17,7 @@
 					<artifact name="spark-mllib_2.11" type="jar" ext="jar" status="no" details="" size="5826724" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-2.0.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-mllib_2.11/2.0.0/spark-mllib_2.11-2.0.0.jar"/>
 					</artifact>
-					<artifact name="spark-mllib_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="734981" time="157" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-mllib_2.11\srcs\spark-mllib_2.11-2.0.0-sources.jar">
+					<artifact name="spark-mllib_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="734981" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-mllib_2.11\srcs\spark-mllib_2.11-2.0.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-mllib_2.11/2.0.0/spark-mllib_2.11-2.0.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -29,7 +29,7 @@
 				<metadata-artifact status="no" details="" size="8838" time="0" location="C:\Users\prake\.ivy2\cache\org.jpmml\pmml-model\ivy-1.2.15.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jpmml/pmml-model/1.2.15/pmml-model-1.2.15.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="1.2.15" rev-constraint-default="1.2.15" rev-constraint-dynamic="1.2.15" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="pmml-model" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="495260" time="131" location="C:\Users\prake\.ivy2\cache\org.jpmml\pmml-model\srcs\pmml-model-1.2.15-sources.jar">
+					<artifact name="pmml-model" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="495260" time="0" location="C:\Users\prake\.ivy2\cache\org.jpmml\pmml-model\srcs\pmml-model-1.2.15-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jpmml/pmml-model/1.2.15/pmml-model-1.2.15-sources.jar"/>
 					</artifact>
 					<artifact name="pmml-model" type="jar" ext="jar" status="no" details="" size="654216" time="0" location="C:\Users\prake\.ivy2\cache\org.jpmml\pmml-model\jars\pmml-model-1.2.15.jar">
@@ -44,7 +44,7 @@
 				<metadata-artifact status="no" details="" size="6076" time="0" location="C:\Users\prake\.ivy2\cache\org.jpmml\pmml-schema\ivy-1.2.15.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jpmml/pmml-schema/1.2.15/pmml-schema-1.2.15.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="1.2.15" rev-constraint-default="1.2.15" rev-constraint-dynamic="1.2.15" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="pmml-schema" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="4627" time="114" location="C:\Users\prake\.ivy2\cache\org.jpmml\pmml-schema\srcs\pmml-schema-1.2.15-sources.jar">
+					<artifact name="pmml-schema" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="4627" time="0" location="C:\Users\prake\.ivy2\cache\org.jpmml\pmml-schema\srcs\pmml-schema-1.2.15-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jpmml/pmml-schema/1.2.15/pmml-schema-1.2.15-sources.jar"/>
 					</artifact>
 					<artifact name="pmml-schema" type="jar" ext="jar" status="no" details="" size="5310" time="0" location="C:\Users\prake\.ivy2\cache\org.jpmml\pmml-schema\jars\pmml-schema-1.2.15.jar">
@@ -61,7 +61,7 @@
 					<artifact name="spark-mllib-local_2.11" type="jar" ext="jar" status="no" details="" size="176742" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-mllib-local_2.11\jars\spark-mllib-local_2.11-2.0.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-mllib-local_2.11/2.0.0/spark-mllib-local_2.11-2.0.0.jar"/>
 					</artifact>
-					<artifact name="spark-mllib-local_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="27582" time="137" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-mllib-local_2.11\srcs\spark-mllib-local_2.11-2.0.0-sources.jar">
+					<artifact name="spark-mllib-local_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="27582" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-mllib-local_2.11\srcs\spark-mllib-local_2.11-2.0.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-mllib-local_2.11/2.0.0/spark-mllib-local_2.11-2.0.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -164,7 +164,7 @@
 				<metadata-artifact status="no" details="" size="73390" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-graphx_2.11\ivy-2.0.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-graphx_2.11/2.0.0/spark-graphx_2.11-2.0.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.0.0" rev-constraint-default="2.0.0" rev-constraint-dynamic="2.0.0" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="spark-graphx_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="97269" time="111" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-graphx_2.11\srcs\spark-graphx_2.11-2.0.0-sources.jar">
+					<artifact name="spark-graphx_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="97269" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-graphx_2.11\srcs\spark-graphx_2.11-2.0.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-graphx_2.11/2.0.0/spark-graphx_2.11-2.0.0-sources.jar"/>
 					</artifact>
 					<artifact name="spark-graphx_2.11" type="jar" ext="jar" status="no" details="" size="679211" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-graphx_2.11\jars\spark-graphx_2.11-2.0.0.jar">
@@ -195,7 +195,7 @@
 					<artifact name="spark-sql_2.11" type="jar" ext="jar" status="no" details="" size="6126343" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.0.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.0.0/spark-sql_2.11-2.0.0.jar"/>
 					</artifact>
-					<artifact name="spark-sql_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="750487" time="177" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-sql_2.11\srcs\spark-sql_2.11-2.0.0-sources.jar">
+					<artifact name="spark-sql_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="750487" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-sql_2.11\srcs\spark-sql_2.11-2.0.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.0.0/spark-sql_2.11-2.0.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -305,7 +305,7 @@
 				<metadata-artifact status="no" details="" size="73595" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\ivy-2.0.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.0.0/spark-catalyst_2.11-2.0.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.0.0" rev-constraint-default="2.0.0" rev-constraint-dynamic="2.0.0" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="spark-catalyst_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="685509" time="198" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\srcs\spark-catalyst_2.11-2.0.0-sources.jar">
+					<artifact name="spark-catalyst_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="685509" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\srcs\spark-catalyst_2.11-2.0.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.0.0/spark-catalyst_2.11-2.0.0-sources.jar"/>
 					</artifact>
 					<artifact name="spark-catalyst_2.11" type="jar" ext="jar" status="no" details="" size="6767989" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.0.0.jar">
@@ -319,7 +319,7 @@
 				<metadata-artifact status="no" details="" size="10476" time="0" location="C:\Users\prake\.ivy2\cache\commons-codec\commons-codec\ivy-1.10.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="1.10" rev-constraint-default="1.10" rev-constraint-dynamic="1.10" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="commons-codec" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="301032" time="117" location="C:\Users\prake\.ivy2\cache\commons-codec\commons-codec\srcs\commons-codec-1.10-sources.jar">
+					<artifact name="commons-codec" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="301032" time="0" location="C:\Users\prake\.ivy2\cache\commons-codec\commons-codec\srcs\commons-codec-1.10-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10-sources.jar"/>
 					</artifact>
 					<artifact name="commons-codec" type="jar" ext="jar" status="no" details="" size="284184" time="0" location="C:\Users\prake\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar">
@@ -336,7 +336,7 @@
 					<artifact name="antlr4-runtime" type="jar" ext="jar" status="no" details="" size="302248" time="0" location="C:\Users\prake\.ivy2\cache\org.antlr\antlr4-runtime\jars\antlr4-runtime-4.5.3.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/antlr/antlr4-runtime/4.5.3/antlr4-runtime-4.5.3.jar"/>
 					</artifact>
-					<artifact name="antlr4-runtime" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="397485" time="132" location="C:\Users\prake\.ivy2\cache\org.antlr\antlr4-runtime\srcs\antlr4-runtime-4.5.3-sources.jar">
+					<artifact name="antlr4-runtime" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="397485" time="0" location="C:\Users\prake\.ivy2\cache\org.antlr\antlr4-runtime\srcs\antlr4-runtime-4.5.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/antlr/antlr4-runtime/4.5.3/antlr4-runtime-4.5.3-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -390,7 +390,7 @@
 				<metadata-artifact status="no" details="" size="71615" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-sketch_2.11\ivy-2.0.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-sketch_2.11/2.0.0/spark-sketch_2.11-2.0.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.0.0" rev-constraint-default="2.0.0" rev-constraint-dynamic="2.0.0" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="spark-sketch_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="22661" time="172" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-sketch_2.11\srcs\spark-sketch_2.11-2.0.0-sources.jar">
+					<artifact name="spark-sketch_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="22661" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-sketch_2.11\srcs\spark-sketch_2.11-2.0.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-sketch_2.11/2.0.0/spark-sketch_2.11-2.0.0-sources.jar"/>
 					</artifact>
 					<artifact name="spark-sketch_2.11" type="jar" ext="jar" status="no" details="" size="29539" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-sketch_2.11\jars\spark-sketch_2.11-2.0.0.jar">
@@ -408,7 +408,7 @@
 					<artifact name="univocity-parsers" type="jar" ext="jar" status="no" details="" size="290506" time="0" location="C:\Users\prake\.ivy2\cache\com.univocity\univocity-parsers\jars\univocity-parsers-2.1.1.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/univocity/univocity-parsers/2.1.1/univocity-parsers-2.1.1.jar"/>
 					</artifact>
-					<artifact name="univocity-parsers" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="279907" time="116" location="C:\Users\prake\.ivy2\cache\com.univocity\univocity-parsers\srcs\univocity-parsers-2.1.1-sources.jar">
+					<artifact name="univocity-parsers" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="279907" time="0" location="C:\Users\prake\.ivy2\cache\com.univocity\univocity-parsers\srcs\univocity-parsers-2.1.1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/univocity/univocity-parsers/2.1.1/univocity-parsers-2.1.1-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -416,7 +416,7 @@
 		</module>
 		<module organisation="org.apache.hadoop" name="hadoop-mapreduce-client-jobclient">
 			<revision name="2.2.0" status="release" pubdate="20131007013723" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="44">
-				<metadata-artifact status="successful" details="" size="5474" time="61" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-jobclient\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-jobclient\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.2.0/hadoop-mapreduce-client-jobclient-2.2.0.pom"/>
+				<metadata-artifact status="successful" details="" size="5474" time="118" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-jobclient\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-jobclient\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.2.0/hadoop-mapreduce-client-jobclient-2.2.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="hadoop-mapreduce-client-jobclient" type="jar" ext="jar" status="no" details="" size="35216" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-jobclient\jars\hadoop-mapreduce-client-jobclient-2.2.0.jar">
@@ -430,7 +430,7 @@
 		</module>
 		<module organisation="org.apache.hadoop" name="hadoop-mapreduce-client-app">
 			<revision name="2.2.0" status="release" pubdate="20131007013711" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="32">
-				<metadata-artifact status="successful" details="" size="4335" time="59" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-app\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-app\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.2.0/hadoop-mapreduce-client-app-2.2.0.pom"/>
+				<metadata-artifact status="successful" details="" size="4335" time="133" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-app\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-app\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.2.0/hadoop-mapreduce-client-app-2.2.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="hadoop-mapreduce-client-app" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="278865" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-app\srcs\hadoop-mapreduce-client-app-2.2.0-sources.jar">
@@ -444,7 +444,7 @@
 		</module>
 		<module organisation="org.apache.hadoop" name="hadoop-mapreduce-client-shuffle">
 			<revision name="2.2.0" status="release" pubdate="20131007013703" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="43">
-				<metadata-artifact status="successful" details="" size="1675" time="56" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-shuffle\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-shuffle\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom"/>
+				<metadata-artifact status="successful" details="" size="1675" time="87" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-shuffle\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-shuffle\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="hadoop-mapreduce-client-shuffle" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="10605" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-shuffle\srcs\hadoop-mapreduce-client-shuffle-2.2.0-sources.jar">
@@ -458,7 +458,7 @@
 		</module>
 		<module organisation="org.apache.hadoop" name="hadoop-yarn-server-nodemanager">
 			<revision name="2.2.0" status="release" pubdate="20131007013538" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="112">
-				<metadata-artifact status="successful" details="" size="7324" time="57" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-nodemanager\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-nodemanager\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom"/>
+				<metadata-artifact status="successful" details="" size="7324" time="243" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-nodemanager\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-nodemanager\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="hadoop-yarn-server-nodemanager" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="262442" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-nodemanager\srcs\hadoop-yarn-server-nodemanager-2.2.0-sources.jar">
@@ -472,7 +472,7 @@
 		</module>
 		<module organisation="org.apache.hadoop" name="hadoop-mapreduce-client-common">
 			<revision name="2.2.0" status="release" pubdate="20131007013659" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="33">
-				<metadata-artifact status="successful" details="" size="3273" time="71" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-common\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-common\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom"/>
+				<metadata-artifact status="successful" details="" size="3273" time="690" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-common\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-common\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="hadoop-mapreduce-client-common" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="244749" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-common\srcs\hadoop-mapreduce-client-common-2.2.0-sources.jar">
@@ -486,7 +486,7 @@
 		</module>
 		<module organisation="org.apache.hadoop" name="hadoop-yarn-server-common">
 			<revision name="2.2.0" status="release" pubdate="20131007013526" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="42">
-				<metadata-artifact status="successful" details="" size="3534" time="57" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-common\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-common\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.2.0/hadoop-yarn-server-common-2.2.0.pom"/>
+				<metadata-artifact status="successful" details="" size="3534" time="113" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-common\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-common\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.2.0/hadoop-yarn-server-common-2.2.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="hadoop-yarn-server-common" type="jar" ext="jar" status="no" details="" size="175554" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-common\jars\hadoop-yarn-server-common-2.2.0.jar">
@@ -500,7 +500,7 @@
 		</module>
 		<module organisation="org.apache.hadoop" name="hadoop-mapreduce-client-core">
 			<revision name="2.2.0" status="release" pubdate="20131007013626" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="41">
-				<metadata-artifact status="successful" details="" size="3085" time="61" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-core\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-core\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.pom"/>
+				<metadata-artifact status="successful" details="" size="3085" time="91" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-core\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-core\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="hadoop-mapreduce-client-core" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1008328" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-core\srcs\hadoop-mapreduce-client-core-2.2.0-sources.jar">
@@ -514,7 +514,7 @@
 		</module>
 		<module organisation="org.apache.hadoop" name="hadoop-yarn-client">
 			<revision name="2.2.0" status="release" pubdate="20131007013604" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="40">
-				<metadata-artifact status="successful" details="" size="1961" time="56" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-client\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-client\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0.pom"/>
+				<metadata-artifact status="successful" details="" size="1961" time="104" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-client\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-client\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="hadoop-yarn-client" type="jar" ext="jar" status="no" details="" size="94728" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-client\jars\hadoop-yarn-client-2.2.0.jar">
@@ -528,7 +528,7 @@
 		</module>
 		<module organisation="org.apache.hadoop" name="hadoop-yarn-common">
 			<revision name="2.2.0" status="release" pubdate="20131007013515" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="34">
-				<metadata-artifact status="successful" details="" size="5032" time="63" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-common\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-common\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom"/>
+				<metadata-artifact status="successful" details="" size="5032" time="339" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-common\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-common\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="hadoop-yarn-common" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="634761" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-common\srcs\hadoop-yarn-common-2.2.0-sources.jar">
@@ -542,7 +542,7 @@
 		</module>
 		<module organisation="org.apache.hadoop" name="hadoop-yarn-api">
 			<revision name="2.2.0" status="release" pubdate="20131007013452" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="35">
-				<metadata-artifact status="successful" details="" size="2956" time="55" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-api\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-api\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom"/>
+				<metadata-artifact status="successful" details="" size="2956" time="91" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-api\ivy-2.2.0.xml" searched="true" original-local-location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-api\ivy-2.2.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="hadoop-yarn-api" type="jar" ext="jar" status="no" details="" size="1158936" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.hadoop\hadoop-yarn-api\jars\hadoop-yarn-api-2.2.0.jar">
@@ -726,7 +726,7 @@
 					<artifact name="commons-io" type="jar" ext="jar" status="no" details="" size="163151" time="0" location="C:\Users\prake\.ivy2\cache\commons-io\commons-io\jars\commons-io-2.1.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/commons-io/commons-io/2.1/commons-io-2.1.jar"/>
 					</artifact>
-					<artifact name="commons-io" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="235622" time="112" location="C:\Users\prake\.ivy2\cache\commons-io\commons-io\srcs\commons-io-2.1-sources.jar">
+					<artifact name="commons-io" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="235622" time="0" location="C:\Users\prake\.ivy2\cache\commons-io\commons-io\srcs\commons-io-2.1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/commons-io/commons-io/2.1/commons-io-2.1-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -782,7 +782,7 @@
 					<artifact name="spark-streaming_2.11" type="jar" ext="jar" status="no" details="" size="2084528" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-streaming_2.11\jars\spark-streaming_2.11-2.0.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.11/2.0.0/spark-streaming_2.11-2.0.0.jar"/>
 					</artifact>
-					<artifact name="spark-streaming_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="247332" time="221" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-streaming_2.11\srcs\spark-streaming_2.11-2.0.0-sources.jar">
+					<artifact name="spark-streaming_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="247332" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-streaming_2.11\srcs\spark-streaming_2.11-2.0.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.11/2.0.0/spark-streaming_2.11-2.0.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -793,7 +793,7 @@
 				<metadata-artifact status="no" details="" size="83852" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-core_2.11\ivy-2.0.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.0.0/spark-core_2.11-2.0.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.0.0" rev-constraint-default="2.0.0" rev-constraint-dynamic="2.0.0" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="spark-core_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1726796" time="342" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-core_2.11\srcs\spark-core_2.11-2.0.0-sources.jar">
+					<artifact name="spark-core_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1726796" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-core_2.11\srcs\spark-core_2.11-2.0.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.0.0/spark-core_2.11-2.0.0-sources.jar"/>
 					</artifact>
 					<artifact name="spark-core_2.11" type="jar" ext="jar" status="no" details="" size="11688921" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.0.0.jar">
@@ -808,7 +808,7 @@
 				<metadata-artifact status="no" details="" size="3356" time="0" location="C:\Users\prake\.ivy2\cache\net.sf.py4j\py4j\ivy-0.10.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/net/sf/py4j/py4j/0.10.1/py4j-0.10.1.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="0.10.1" rev-constraint-default="0.10.1" rev-constraint-dynamic="0.10.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="py4j" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="111293" time="97" location="C:\Users\prake\.ivy2\cache\net.sf.py4j\py4j\srcs\py4j-0.10.1-sources.jar">
+					<artifact name="py4j" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="111293" time="0" location="C:\Users\prake\.ivy2\cache\net.sf.py4j\py4j\srcs\py4j-0.10.1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/net/sf/py4j/py4j/0.10.1/py4j-0.10.1-sources.jar"/>
 					</artifact>
 					<artifact name="py4j" type="jar" ext="jar" status="no" details="" size="106731" time="0" location="C:\Users\prake\.ivy2\cache\net.sf.py4j\py4j\jars\py4j-0.10.1.jar">
@@ -852,10 +852,10 @@
 				<metadata-artifact status="no" details="" size="4133" time="0" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.module\jackson-module-scala_2.11\ivy-2.6.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.6.5/jackson-module-scala_2.11-2.6.5.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.6.5" rev-constraint-default="2.6.5" rev-constraint-dynamic="2.6.5" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="jackson-module-scala_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="52587" time="118" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.module\jackson-module-scala_2.11\srcs\jackson-module-scala_2.11-2.6.5-sources.jar">
+					<artifact name="jackson-module-scala_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="52587" time="0" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.module\jackson-module-scala_2.11\srcs\jackson-module-scala_2.11-2.6.5-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.6.5/jackson-module-scala_2.11-2.6.5-sources.jar"/>
 					</artifact>
-					<artifact name="jackson-module-scala_2.11" type="jar" ext="jar" status="successful" details="" size="515604" time="128" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.module\jackson-module-scala_2.11\jars\jackson-module-scala_2.11-2.6.5.jar">
+					<artifact name="jackson-module-scala_2.11" type="jar" ext="jar" status="no" details="" size="515604" time="0" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.module\jackson-module-scala_2.11\jars\jackson-module-scala_2.11-2.6.5.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.6.5/jackson-module-scala_2.11-2.6.5.jar"/>
 					</artifact>
 				</artifacts>
@@ -866,10 +866,10 @@
 				<metadata-artifact status="no" details="" size="7458" time="0" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.module\jackson-module-paranamer\ivy-2.6.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-paranamer/2.6.5/jackson-module-paranamer-2.6.5.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.6.5" rev-constraint-default="2.6.5" rev-constraint-dynamic="2.6.5" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="jackson-module-paranamer" type="jar" ext="jar" status="successful" details="" size="41263" time="188" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.module\jackson-module-paranamer\jars\jackson-module-paranamer-2.6.5.jar">
+					<artifact name="jackson-module-paranamer" type="jar" ext="jar" status="no" details="" size="41263" time="0" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.module\jackson-module-paranamer\jars\jackson-module-paranamer-2.6.5.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-paranamer/2.6.5/jackson-module-paranamer-2.6.5.jar"/>
 					</artifact>
-					<artifact name="jackson-module-paranamer" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="6567" time="120" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.module\jackson-module-paranamer\srcs\jackson-module-paranamer-2.6.5-sources.jar">
+					<artifact name="jackson-module-paranamer" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="6567" time="0" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.module\jackson-module-paranamer\srcs\jackson-module-paranamer-2.6.5-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-paranamer/2.6.5/jackson-module-paranamer-2.6.5-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -880,11 +880,11 @@
 				<metadata-artifact status="no" details="" size="5280" time="0" location="C:\Users\prake\.ivy2\cache\io.dropwizard.metrics\metrics-graphite\ivy-3.1.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/dropwizard/metrics/metrics-graphite/3.1.2/metrics-graphite-3.1.2.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="3.1.2" rev-constraint-default="3.1.2" rev-constraint-dynamic="3.1.2" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="metrics-graphite" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="10675" time="0" location="C:\Users\prake\.ivy2\cache\io.dropwizard.metrics\metrics-graphite\srcs\metrics-graphite-3.1.2-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/dropwizard/metrics/metrics-graphite/3.1.2/metrics-graphite-3.1.2-sources.jar"/>
-					</artifact>
 					<artifact name="metrics-graphite" type="jar" ext="jar" status="no" details="" size="20852" time="0" location="C:\Users\prake\.ivy2\cache\io.dropwizard.metrics\metrics-graphite\jars\metrics-graphite-3.1.2.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/dropwizard/metrics/metrics-graphite/3.1.2/metrics-graphite-3.1.2.jar"/>
+					</artifact>
+					<artifact name="metrics-graphite" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="10675" time="0" location="C:\Users\prake\.ivy2\cache\io.dropwizard.metrics\metrics-graphite\srcs\metrics-graphite-3.1.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/dropwizard/metrics/metrics-graphite/3.1.2/metrics-graphite-3.1.2-sources.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -980,7 +980,7 @@
 				<metadata-artifact status="no" details="" size="48168" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.containers\jersey-container-servlet\ivy-2.22.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/2.22.2/jersey-container-servlet-2.22.2.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.22.2" rev-constraint-default="2.22.2" rev-constraint-dynamic="2.22.2" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="jersey-container-servlet" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="15919" time="171" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.containers\jersey-container-servlet\srcs\jersey-container-servlet-2.22.2-sources.jar">
+					<artifact name="jersey-container-servlet" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="15919" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.containers\jersey-container-servlet\srcs\jersey-container-servlet-2.22.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/2.22.2/jersey-container-servlet-2.22.2-sources.jar"/>
 					</artifact>
 					<artifact name="jersey-container-servlet" type="jar" ext="jar" status="no" details="" size="18098" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.containers\jersey-container-servlet\jars\jersey-container-servlet-2.22.2.jar">
@@ -994,7 +994,7 @@
 				<metadata-artifact status="no" details="" size="48305" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.containers\jersey-container-servlet-core\ivy-2.22.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.22.2/jersey-container-servlet-core-2.22.2.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.22.2" rev-constraint-default="2.22.2" rev-constraint-dynamic="2.22.2" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="jersey-container-servlet-core" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="62750" time="105" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.containers\jersey-container-servlet-core\srcs\jersey-container-servlet-core-2.22.2-sources.jar">
+					<artifact name="jersey-container-servlet-core" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="62750" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.containers\jersey-container-servlet-core\srcs\jersey-container-servlet-core-2.22.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.22.2/jersey-container-servlet-core-2.22.2-sources.jar"/>
 					</artifact>
 					<artifact name="jersey-container-servlet-core" type="jar" ext="jar" status="no" details="" size="66270" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.containers\jersey-container-servlet-core\jars\jersey-container-servlet-core-2.22.2.jar">
@@ -1011,7 +1011,7 @@
 					<artifact name="jersey-server" type="jar" ext="jar" status="no" details="" size="951701" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.core\jersey-server\jars\jersey-server-2.22.2.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/jersey/core/jersey-server/2.22.2/jersey-server-2.22.2.jar"/>
 					</artifact>
-					<artifact name="jersey-server" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="757324" time="161" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.core\jersey-server\srcs\jersey-server-2.22.2-sources.jar">
+					<artifact name="jersey-server" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="757324" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.core\jersey-server\srcs\jersey-server-2.22.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/jersey/core/jersey-server/2.22.2/jersey-server-2.22.2-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1023,7 +1023,7 @@
 				<metadata-artifact status="no" details="" size="3108" time="0" location="C:\Users\prake\.ivy2\cache\javax.validation\validation-api\ivy-1.1.0.Final.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="1.1.0.Final" rev-constraint-default="1.1.0.Final" rev-constraint-dynamic="1.1.0.Final" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="validation-api" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="94671" time="120" location="C:\Users\prake\.ivy2\cache\javax.validation\validation-api\srcs\validation-api-1.1.0.Final-sources.jar">
+					<artifact name="validation-api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="94671" time="0" location="C:\Users\prake\.ivy2\cache\javax.validation\validation-api\srcs\validation-api-1.1.0.Final-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar"/>
 					</artifact>
 					<artifact name="validation-api" type="jar" ext="jar" status="no" details="" size="63777" time="0" location="C:\Users\prake\.ivy2\cache\javax.validation\validation-api\jars\validation-api-1.1.0.Final.jar">
@@ -1040,7 +1040,7 @@
 					<artifact name="jersey-media-jaxb" type="jar" ext="jar" status="no" details="" size="72733" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.media\jersey-media-jaxb\jars\jersey-media-jaxb-2.22.2.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.22.2/jersey-media-jaxb-2.22.2.jar"/>
 					</artifact>
-					<artifact name="jersey-media-jaxb" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="53475" time="107" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.media\jersey-media-jaxb\srcs\jersey-media-jaxb-2.22.2-sources.jar">
+					<artifact name="jersey-media-jaxb" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="53475" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.media\jersey-media-jaxb\srcs\jersey-media-jaxb-2.22.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.22.2/jersey-media-jaxb-2.22.2-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1051,7 +1051,7 @@
 				<metadata-artifact status="no" details="" size="48253" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.core\jersey-client\ivy-2.22.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/glassfish/jersey/core/jersey-client/2.22.2/jersey-client-2.22.2.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.22.2" rev-constraint-default="2.22.2" rev-constraint-dynamic="2.22.2" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="jersey-client" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="128842" time="105" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.core\jersey-client\srcs\jersey-client-2.22.2-sources.jar">
+					<artifact name="jersey-client" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="128842" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.core\jersey-client\srcs\jersey-client-2.22.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/jersey/core/jersey-client/2.22.2/jersey-client-2.22.2-sources.jar"/>
 					</artifact>
 					<artifact name="jersey-client" type="jar" ext="jar" status="no" details="" size="167421" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.core\jersey-client\jars\jersey-client-2.22.2.jar">
@@ -1068,7 +1068,7 @@
 					<artifact name="jersey-common" type="jar" ext="jar" status="no" details="" size="698375" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.core\jersey-common\jars\jersey-common-2.22.2.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/jersey/core/jersey-common/2.22.2/jersey-common-2.22.2.jar"/>
 					</artifact>
-					<artifact name="jersey-common" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="599014" time="132" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.core\jersey-common\srcs\jersey-common-2.22.2-sources.jar">
+					<artifact name="jersey-common" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="599014" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.core\jersey-common\srcs\jersey-common-2.22.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/jersey/core/jersey-common/2.22.2/jersey-common-2.22.2-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1079,7 +1079,7 @@
 				<metadata-artifact status="no" details="" size="36734" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2\hk2-locator\ivy-2.4.0-b34.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/glassfish/hk2/hk2-locator/2.4.0-b34/hk2-locator-2.4.0-b34.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.4.0-b34" rev-constraint-default="2.4.0-b34" rev-constraint-dynamic="2.4.0-b34" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="hk2-locator" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="128049" time="116" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2\hk2-locator\srcs\hk2-locator-2.4.0-b34-sources.jar">
+					<artifact name="hk2-locator" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="128049" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2\hk2-locator\srcs\hk2-locator-2.4.0-b34-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/hk2/hk2-locator/2.4.0-b34/hk2-locator-2.4.0-b34-sources.jar"/>
 					</artifact>
 					<artifact name="hk2-locator" type="jar" ext="jar" status="no" details="" size="181271" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2\hk2-locator\jars\hk2-locator-2.4.0-b34.jar">
@@ -1096,10 +1096,10 @@
 				<metadata-artifact status="no" details="" size="3108" time="0" location="C:\Users\prake\.ivy2\cache\org.javassist\javassist\ivy-3.18.1-GA.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="3.18.1-GA" rev-constraint-default="3.18.1-GA" rev-constraint-dynamic="3.18.1-GA" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="javassist" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="513427" time="146" location="C:\Users\prake\.ivy2\cache\org.javassist\javassist\srcs\javassist-3.18.1-GA-sources.jar">
+					<artifact name="javassist" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="513427" time="0" location="C:\Users\prake\.ivy2\cache\org.javassist\javassist\srcs\javassist-3.18.1-GA-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA-sources.jar"/>
 					</artifact>
-					<artifact name="javassist" type="jar" ext="jar" status="successful" details="" size="714194" time="104" location="C:\Users\prake\.ivy2\cache\org.javassist\javassist\jars\javassist-3.18.1-GA.jar">
+					<artifact name="javassist" type="jar" ext="jar" status="no" details="" size="714194" time="0" location="C:\Users\prake\.ivy2\cache\org.javassist\javassist\jars\javassist-3.18.1-GA.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar"/>
 					</artifact>
 				</artifacts>
@@ -1110,11 +1110,11 @@
 				<metadata-artifact status="no" details="" size="37155" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2.external\javax.inject\ivy-2.4.0-b34.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/glassfish/hk2/external/javax.inject/2.4.0-b34/javax.inject-2.4.0-b34.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.4.0-b34" rev-constraint-default="2.4.0-b34" rev-constraint-dynamic="2.4.0-b34" callerrev="1.0"/>
 				<artifacts>
+					<artifact name="javax.inject" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="13157" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2.external\javax.inject\srcs\javax.inject-2.4.0-b34-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/hk2/external/javax.inject/2.4.0-b34/javax.inject-2.4.0-b34-sources.jar"/>
+					</artifact>
 					<artifact name="javax.inject" type="jar" ext="jar" status="no" details="" size="5950" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2.external\javax.inject\jars\javax.inject-2.4.0-b34.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/hk2/external/javax.inject/2.4.0-b34/javax.inject-2.4.0-b34.jar"/>
-					</artifact>
-					<artifact name="javax.inject" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="13157" time="147" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2.external\javax.inject\srcs\javax.inject-2.4.0-b34-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/hk2/external/javax.inject/2.4.0-b34/javax.inject-2.4.0-b34-sources.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -1124,7 +1124,7 @@
 				<metadata-artifact status="no" details="" size="36430" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2\hk2-api\ivy-2.4.0-b34.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/glassfish/hk2/hk2-api/2.4.0-b34/hk2-api-2.4.0-b34.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.4.0-b34" rev-constraint-default="2.4.0-b34" rev-constraint-dynamic="2.4.0-b34" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="hk2-api" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="257019" time="126" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2\hk2-api\srcs\hk2-api-2.4.0-b34-sources.jar">
+					<artifact name="hk2-api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="257019" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2\hk2-api\srcs\hk2-api-2.4.0-b34-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/hk2/hk2-api/2.4.0-b34/hk2-api-2.4.0-b34-sources.jar"/>
 					</artifact>
 					<artifact name="hk2-api" type="jar" ext="jar" status="no" details="" size="178947" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2\hk2-api\jars\hk2-api-2.4.0-b34.jar">
@@ -1138,7 +1138,7 @@
 				<metadata-artifact status="no" details="" size="37074" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2.external\aopalliance-repackaged\ivy-2.4.0-b34.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.4.0-b34/aopalliance-repackaged-2.4.0-b34.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.4.0-b34" rev-constraint-default="2.4.0-b34" rev-constraint-dynamic="2.4.0-b34" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="aopalliance-repackaged" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="23639" time="345" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2.external\aopalliance-repackaged\srcs\aopalliance-repackaged-2.4.0-b34-sources.jar">
+					<artifact name="aopalliance-repackaged" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="23639" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2.external\aopalliance-repackaged\srcs\aopalliance-repackaged-2.4.0-b34-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.4.0-b34/aopalliance-repackaged-2.4.0-b34-sources.jar"/>
 					</artifact>
 					<artifact name="aopalliance-repackaged" type="jar" ext="jar" status="no" details="" size="14766" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2.external\aopalliance-repackaged\jars\aopalliance-repackaged-2.4.0-b34.jar">
@@ -1167,7 +1167,7 @@
 				<metadata-artifact status="no" details="" size="36024" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2\hk2-utils\ivy-2.4.0-b34.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/glassfish/hk2/hk2-utils/2.4.0-b34/hk2-utils-2.4.0-b34.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.4.0-b34" rev-constraint-default="2.4.0-b34" rev-constraint-dynamic="2.4.0-b34" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="hk2-utils" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="88644" time="112" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2\hk2-utils\srcs\hk2-utils-2.4.0-b34-sources.jar">
+					<artifact name="hk2-utils" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="88644" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2\hk2-utils\srcs\hk2-utils-2.4.0-b34-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/hk2/hk2-utils/2.4.0-b34/hk2-utils-2.4.0-b34-sources.jar"/>
 					</artifact>
 					<artifact name="hk2-utils" type="jar" ext="jar" status="no" details="" size="118973" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2\hk2-utils\jars\hk2-utils-2.4.0-b34.jar">
@@ -1184,7 +1184,7 @@
 					<artifact name="osgi-resource-locator" type="jar" ext="jar" status="no" details="" size="20235" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2\osgi-resource-locator\jars\osgi-resource-locator-1.0.1.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar"/>
 					</artifact>
-					<artifact name="osgi-resource-locator" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="13010" time="132" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2\osgi-resource-locator\srcs\osgi-resource-locator-1.0.1-sources.jar">
+					<artifact name="osgi-resource-locator" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="13010" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.hk2\osgi-resource-locator\srcs\osgi-resource-locator-1.0.1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1195,10 +1195,10 @@
 				<metadata-artifact status="no" details="" size="48158" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.bundles.repackaged\jersey-guava\ivy-2.22.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.22.2/jersey-guava-2.22.2.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.22.2" rev-constraint-default="2.22.2" rev-constraint-dynamic="2.22.2" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="jersey-guava" type="jar" ext="jar" status="successful" details="" size="971310" time="120" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.bundles.repackaged\jersey-guava\jars\jersey-guava-2.22.2.jar">
+					<artifact name="jersey-guava" type="jar" ext="jar" status="no" details="" size="971310" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.bundles.repackaged\jersey-guava\jars\jersey-guava-2.22.2.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.22.2/jersey-guava-2.22.2.jar"/>
 					</artifact>
-					<artifact name="jersey-guava" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1308830" time="312" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.bundles.repackaged\jersey-guava\srcs\jersey-guava-2.22.2-sources.jar">
+					<artifact name="jersey-guava" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1308830" time="0" location="C:\Users\prake\.ivy2\cache\org.glassfish.jersey.bundles.repackaged\jersey-guava\srcs\jersey-guava-2.22.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.22.2/jersey-guava-2.22.2-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1210,7 +1210,7 @@
 				<metadata-artifact status="no" details="" size="4050" time="0" location="C:\Users\prake\.ivy2\cache\javax.annotation\javax.annotation-api\ivy-1.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="1.2" rev-constraint-default="1.2" rev-constraint-dynamic="1.2" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="javax.annotation-api" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="42311" time="212" location="C:\Users\prake\.ivy2\cache\javax.annotation\javax.annotation-api\srcs\javax.annotation-api-1.2-sources.jar">
+					<artifact name="javax.annotation-api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="42311" time="0" location="C:\Users\prake\.ivy2\cache\javax.annotation\javax.annotation-api\srcs\javax.annotation-api-1.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2-sources.jar"/>
 					</artifact>
 					<artifact name="javax.annotation-api" type="jar" ext="jar" status="no" details="" size="26366" time="0" location="C:\Users\prake\.ivy2\cache\javax.annotation\javax.annotation-api\jars\javax.annotation-api-1.2.jar">
@@ -1226,7 +1226,7 @@
 				<metadata-artifact status="no" details="" size="3938" time="0" location="C:\Users\prake\.ivy2\cache\javax.ws.rs\javax.ws.rs-api\ivy-2.0.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.0.1" rev-constraint-default="2.0.1" rev-constraint-dynamic="2.0.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="javax.ws.rs-api" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="265372" time="119" location="C:\Users\prake\.ivy2\cache\javax.ws.rs\javax.ws.rs-api\srcs\javax.ws.rs-api-2.0.1-sources.jar">
+					<artifact name="javax.ws.rs-api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="265372" time="0" location="C:\Users\prake\.ivy2\cache\javax.ws.rs\javax.ws.rs-api\srcs\javax.ws.rs-api-2.0.1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar"/>
 					</artifact>
 					<artifact name="javax.ws.rs-api" type="jar" ext="jar" status="no" details="" size="115534" time="0" location="C:\Users\prake\.ivy2\cache\javax.ws.rs\javax.ws.rs-api\jars\javax.ws.rs-api-2.0.1.jar">
@@ -1244,7 +1244,7 @@
 					<artifact name="json4s-jackson_2.11" type="jar" ext="jar" status="no" details="" size="40341" time="0" location="C:\Users\prake\.ivy2\cache\org.json4s\json4s-jackson_2.11\jars\json4s-jackson_2.11-3.2.11.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/json4s/json4s-jackson_2.11/3.2.11/json4s-jackson_2.11-3.2.11.jar"/>
 					</artifact>
-					<artifact name="json4s-jackson_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="7083" time="126" location="C:\Users\prake\.ivy2\cache\org.json4s\json4s-jackson_2.11\srcs\json4s-jackson_2.11-3.2.11-sources.jar">
+					<artifact name="json4s-jackson_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="7083" time="0" location="C:\Users\prake\.ivy2\cache\org.json4s\json4s-jackson_2.11\srcs\json4s-jackson_2.11-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/json4s/json4s-jackson_2.11/3.2.11/json4s-jackson_2.11-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1256,7 +1256,7 @@
 				<metadata-artifact status="no" details="" size="2997" time="0" location="C:\Users\prake\.ivy2\cache\org.json4s\json4s-core_2.11\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.11/json4s-core_2.11-3.2.11.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="json4s-core_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="39377" time="188" location="C:\Users\prake\.ivy2\cache\org.json4s\json4s-core_2.11\srcs\json4s-core_2.11-3.2.11-sources.jar">
+					<artifact name="json4s-core_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="39377" time="0" location="C:\Users\prake\.ivy2\cache\org.json4s\json4s-core_2.11\srcs\json4s-core_2.11-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.11/json4s-core_2.11-3.2.11-sources.jar"/>
 					</artifact>
 					<artifact name="json4s-core_2.11" type="jar" ext="jar" status="no" details="" size="589462" time="0" location="C:\Users\prake\.ivy2\cache\org.json4s\json4s-core_2.11\jars\json4s-core_2.11-3.2.11.jar">
@@ -1333,7 +1333,7 @@
 					<artifact name="json4s-ast_2.11" type="jar" ext="jar" status="no" details="" size="82421" time="0" location="C:\Users\prake\.ivy2\cache\org.json4s\json4s-ast_2.11\jars\json4s-ast_2.11-3.2.11.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.11/json4s-ast_2.11-3.2.11.jar"/>
 					</artifact>
-					<artifact name="json4s-ast_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="7279" time="111" location="C:\Users\prake\.ivy2\cache\org.json4s\json4s-ast_2.11\srcs\json4s-ast_2.11-3.2.11-sources.jar">
+					<artifact name="json4s-ast_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="7279" time="0" location="C:\Users\prake\.ivy2\cache\org.json4s\json4s-ast_2.11\srcs\json4s-ast_2.11-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.11/json4s-ast_2.11-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1375,10 +1375,10 @@
 				<metadata-artifact status="no" details="" size="3362" time="0" location="C:\Users\prake\.ivy2\cache\org.xerial.snappy\snappy-java\ivy-1.1.2.4.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.2.4/snappy-java-1.1.2.4.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="1.1.2.4" rev-constraint-default="1.1.2.4" rev-constraint-dynamic="1.1.2.4" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="snappy-java" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1049583" time="217" location="C:\Users\prake\.ivy2\cache\org.xerial.snappy\snappy-java\srcs\snappy-java-1.1.2.4-sources.jar">
+					<artifact name="snappy-java" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1049583" time="0" location="C:\Users\prake\.ivy2\cache\org.xerial.snappy\snappy-java\srcs\snappy-java-1.1.2.4-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.2.4/snappy-java-1.1.2.4-sources.jar"/>
 					</artifact>
-					<artifact name="snappy-java" type="jar" ext="jar" status="successful" details="" size="1056032" time="147" location="C:\Users\prake\.ivy2\cache\org.xerial.snappy\snappy-java\jars\snappy-java-1.1.2.4.jar">
+					<artifact name="snappy-java" type="jar" ext="jar" status="no" details="" size="1056032" time="0" location="C:\Users\prake\.ivy2\cache\org.xerial.snappy\snappy-java\jars\snappy-java-1.1.2.4.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.2.4/snappy-java-1.1.2.4.jar"/>
 					</artifact>
 				</artifacts>
@@ -1407,7 +1407,7 @@
 					<artifact name="jcl-over-slf4j" type="jar" ext="jar" status="no" details="" size="16430" time="0" location="C:\Users\prake\.ivy2\cache\org.slf4j\jcl-over-slf4j\jars\jcl-over-slf4j-1.7.16.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.16/jcl-over-slf4j-1.7.16.jar"/>
 					</artifact>
-					<artifact name="jcl-over-slf4j" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="23213" time="173" location="C:\Users\prake\.ivy2\cache\org.slf4j\jcl-over-slf4j\srcs\jcl-over-slf4j-1.7.16-sources.jar">
+					<artifact name="jcl-over-slf4j" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="23213" time="0" location="C:\Users\prake\.ivy2\cache\org.slf4j\jcl-over-slf4j\srcs\jcl-over-slf4j-1.7.16-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.16/jcl-over-slf4j-1.7.16-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1436,7 +1436,7 @@
 					<artifact name="javax.servlet-api" type="jar" ext="jar" status="no" details="" size="95806" time="0" location="C:\Users\prake\.ivy2\cache\javax.servlet\javax.servlet-api\jars\javax.servlet-api-3.1.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar"/>
 					</artifact>
-					<artifact name="javax.servlet-api" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="223386" time="114" location="C:\Users\prake\.ivy2\cache\javax.servlet\javax.servlet-api\srcs\javax.servlet-api-3.1.0-sources.jar">
+					<artifact name="javax.servlet-api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="223386" time="0" location="C:\Users\prake\.ivy2\cache\javax.servlet\javax.servlet-api\srcs\javax.servlet-api-3.1.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1533,7 +1533,7 @@
 				<metadata-artifact status="no" details="" size="72711" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-unsafe_2.11\ivy-2.0.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-unsafe_2.11/2.0.0/spark-unsafe_2.11-2.0.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.0.0" rev-constraint-default="2.0.0" rev-constraint-dynamic="2.0.0" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="spark-unsafe_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="33202" time="194" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-unsafe_2.11\srcs\spark-unsafe_2.11-2.0.0-sources.jar">
+					<artifact name="spark-unsafe_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="33202" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-unsafe_2.11\srcs\spark-unsafe_2.11-2.0.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-unsafe_2.11/2.0.0/spark-unsafe_2.11-2.0.0-sources.jar"/>
 					</artifact>
 					<artifact name="spark-unsafe_2.11" type="jar" ext="jar" status="no" details="" size="41081" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-unsafe_2.11\jars\spark-unsafe_2.11-2.0.0.jar">
@@ -1564,7 +1564,7 @@
 					<artifact name="spark-network-shuffle_2.11" type="jar" ext="jar" status="no" details="" size="58626" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-network-shuffle_2.11\jars\spark-network-shuffle_2.11-2.0.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-shuffle_2.11/2.0.0/spark-network-shuffle_2.11-2.0.0.jar"/>
 					</artifact>
-					<artifact name="spark-network-shuffle_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="38461" time="287" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-network-shuffle_2.11\srcs\spark-network-shuffle_2.11-2.0.0-sources.jar">
+					<artifact name="spark-network-shuffle_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="38461" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-network-shuffle_2.11\srcs\spark-network-shuffle_2.11-2.0.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-shuffle_2.11/2.0.0/spark-network-shuffle_2.11-2.0.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1575,10 +1575,10 @@
 				<metadata-artifact status="no" details="" size="6309" time="0" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.core\jackson-annotations\ivy-2.6.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.5/jackson-annotations-2.6.5.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.6.5" rev-constraint-default="2.6.5" rev-constraint-dynamic="2.6.5" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="jackson-annotations" type="jar" ext="jar" status="successful" details="" size="46983" time="299" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.core\jackson-annotations\jars\jackson-annotations-2.6.5.jar">
+					<artifact name="jackson-annotations" type="jar" ext="jar" status="no" details="" size="46983" time="0" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.core\jackson-annotations\jars\jackson-annotations-2.6.5.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.5/jackson-annotations-2.6.5.jar"/>
 					</artifact>
-					<artifact name="jackson-annotations" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="50255" time="101" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.core\jackson-annotations\srcs\jackson-annotations-2.6.5-sources.jar">
+					<artifact name="jackson-annotations" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="50255" time="0" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.core\jackson-annotations\srcs\jackson-annotations-2.6.5-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.5/jackson-annotations-2.6.5-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1589,10 +1589,10 @@
 				<metadata-artifact status="no" details="" size="8759" time="0" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.core\jackson-databind\ivy-2.6.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.5/jackson-databind-2.6.5.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.6.5" rev-constraint-default="2.6.5" rev-constraint-dynamic="2.6.5" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="jackson-databind" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="858568" time="170" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.core\jackson-databind\srcs\jackson-databind-2.6.5-sources.jar">
+					<artifact name="jackson-databind" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="858568" time="0" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.core\jackson-databind\srcs\jackson-databind-2.6.5-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.5/jackson-databind-2.6.5-sources.jar"/>
 					</artifact>
-					<artifact name="jackson-databind" type="jar" ext="jar" status="successful" details="" size="1171380" time="143" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.core\jackson-databind\jars\jackson-databind-2.6.5.jar">
+					<artifact name="jackson-databind" type="jar" ext="jar" status="no" details="" size="1171380" time="0" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.core\jackson-databind\jars\jackson-databind-2.6.5.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.5/jackson-databind-2.6.5.jar"/>
 					</artifact>
 				</artifacts>
@@ -1603,10 +1603,10 @@
 				<metadata-artifact status="no" details="" size="6858" time="0" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.core\jackson-core\ivy-2.6.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.5/jackson-core-2.6.5.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.6.5" rev-constraint-default="2.6.5" rev-constraint-dynamic="2.6.5" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="jackson-core" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="271958" time="114" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.core\jackson-core\srcs\jackson-core-2.6.5-sources.jar">
+					<artifact name="jackson-core" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="271958" time="0" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.core\jackson-core\srcs\jackson-core-2.6.5-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.5/jackson-core-2.6.5-sources.jar"/>
 					</artifact>
-					<artifact name="jackson-core" type="jar" ext="jar" status="successful" details="" size="258876" time="100" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.core\jackson-core\jars\jackson-core-2.6.5.jar">
+					<artifact name="jackson-core" type="jar" ext="jar" status="no" details="" size="258876" time="0" location="C:\Users\prake\.ivy2\cache\com.fasterxml.jackson.core\jackson-core\jars\jackson-core-2.6.5.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.5/jackson-core-2.6.5.jar"/>
 					</artifact>
 				</artifacts>
@@ -1634,7 +1634,7 @@
 					<artifact name="spark-network-common_2.11" type="jar" ext="jar" status="no" details="" size="2350593" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-network-common_2.11\jars\spark-network-common_2.11-2.0.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-common_2.11/2.0.0/spark-network-common_2.11-2.0.0.jar"/>
 					</artifact>
-					<artifact name="spark-network-common_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="107588" time="109" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-network-common_2.11\srcs\spark-network-common_2.11-2.0.0-sources.jar">
+					<artifact name="spark-network-common_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="107588" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-network-common_2.11\srcs\spark-network-common_2.11-2.0.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-network-common_2.11/2.0.0/spark-network-common_2.11-2.0.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1677,7 +1677,7 @@
 					<artifact name="spark-launcher_2.11" type="jar" ext="jar" status="no" details="" size="65651" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-launcher_2.11\jars\spark-launcher_2.11-2.0.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-launcher_2.11/2.0.0/spark-launcher_2.11-2.0.0.jar"/>
 					</artifact>
-					<artifact name="spark-launcher_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="43677" time="216" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-launcher_2.11\srcs\spark-launcher_2.11-2.0.0-sources.jar">
+					<artifact name="spark-launcher_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="43677" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-launcher_2.11\srcs\spark-launcher_2.11-2.0.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-launcher_2.11/2.0.0/spark-launcher_2.11-2.0.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1688,7 +1688,7 @@
 				<metadata-artifact status="no" details="" size="71162" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-tags_2.11\ivy-2.0.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/spark/spark-tags_2.11/2.0.0/spark-tags_2.11-2.0.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.0.0" rev-constraint-default="2.0.0" rev-constraint-dynamic="2.0.0" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="spark-tags_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="14732" time="149" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-tags_2.11\srcs\spark-tags_2.11-2.0.0-sources.jar">
+					<artifact name="spark-tags_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="14732" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-tags_2.11\srcs\spark-tags_2.11-2.0.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/spark/spark-tags_2.11/2.0.0/spark-tags_2.11-2.0.0-sources.jar"/>
 					</artifact>
 					<artifact name="spark-tags_2.11" type="jar" ext="jar" status="no" details="" size="15303" time="0" location="C:\Users\prake\.ivy2\cache\org.apache.spark\spark-tags_2.11\jars\spark-tags_2.11-2.0.0.jar">
@@ -1718,10 +1718,10 @@
 				<metadata-artifact status="no" details="" size="4895" time="0" location="C:\Users\prake\.ivy2\cache\org.scalatest\scalatest_2.11\ivy-2.2.6.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.2.6" rev-constraint-default="2.2.6" rev-constraint-dynamic="2.2.6" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="scalatest_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1439140" time="239" location="C:\Users\prake\.ivy2\cache\org.scalatest\scalatest_2.11\srcs\scalatest_2.11-2.2.6-sources.jar">
+					<artifact name="scalatest_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1439140" time="0" location="C:\Users\prake\.ivy2\cache\org.scalatest\scalatest_2.11\srcs\scalatest_2.11-2.2.6-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6-sources.jar"/>
 					</artifact>
-					<artifact name="scalatest_2.11" type="jar" ext="jar" status="successful" details="" size="7439504" time="588" location="C:\Users\prake\.ivy2\cache\org.scalatest\scalatest_2.11\jars\scalatest_2.11-2.2.6.jar">
+					<artifact name="scalatest_2.11" type="jar" ext="jar" status="no" details="" size="7439504" time="0" location="C:\Users\prake\.ivy2\cache\org.scalatest\scalatest_2.11\jars\scalatest_2.11-2.2.6.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6.jar"/>
 					</artifact>
 				</artifacts>
@@ -1750,7 +1750,7 @@
 					<artifact name="jul-to-slf4j" type="jar" ext="jar" status="no" details="" size="4596" time="0" location="C:\Users\prake\.ivy2\cache\org.slf4j\jul-to-slf4j\jars\jul-to-slf4j-1.7.16.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/slf4j/jul-to-slf4j/1.7.16/jul-to-slf4j-1.7.16.jar"/>
 					</artifact>
-					<artifact name="jul-to-slf4j" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="4872" time="114" location="C:\Users\prake\.ivy2\cache\org.slf4j\jul-to-slf4j\srcs\jul-to-slf4j-1.7.16-sources.jar">
+					<artifact name="jul-to-slf4j" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="4872" time="0" location="C:\Users\prake\.ivy2\cache\org.slf4j\jul-to-slf4j\srcs\jul-to-slf4j-1.7.16-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/slf4j/jul-to-slf4j/1.7.16/jul-to-slf4j-1.7.16-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1764,7 +1764,7 @@
 					<artifact name="slf4j-log4j12" type="jar" ext="jar" status="no" details="" size="9939" time="0" location="C:\Users\prake\.ivy2\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.7.16.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.16/slf4j-log4j12-1.7.16.jar"/>
 					</artifact>
-					<artifact name="slf4j-log4j12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="11191" time="144" location="C:\Users\prake\.ivy2\cache\org.slf4j\slf4j-log4j12\srcs\slf4j-log4j12-1.7.16-sources.jar">
+					<artifact name="slf4j-log4j12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="11191" time="0" location="C:\Users\prake\.ivy2\cache\org.slf4j\slf4j-log4j12\srcs\slf4j-log4j12-1.7.16-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.16/slf4j-log4j12-1.7.16-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1778,7 +1778,7 @@
 					<artifact name="slf4j-api" type="jar" ext="jar" status="no" details="" size="40509" time="0" location="C:\Users\prake\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.7.16.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar"/>
 					</artifact>
-					<artifact name="slf4j-api" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="55350" time="97" location="C:\Users\prake\.ivy2\cache\org.slf4j\slf4j-api\srcs\slf4j-api-1.7.16-sources.jar">
+					<artifact name="slf4j-api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="55350" time="0" location="C:\Users\prake\.ivy2\cache\org.slf4j\slf4j-api\srcs\slf4j-api-1.7.16-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1838,7 +1838,7 @@
 					<artifact name="chill_2.11" type="jar" ext="jar" status="no" details="" size="223573" time="0" location="C:\Users\prake\.ivy2\cache\com.twitter\chill_2.11\jars\chill_2.11-0.8.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/twitter/chill_2.11/0.8.0/chill_2.11-0.8.0.jar"/>
 					</artifact>
-					<artifact name="chill_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="34973" time="224" location="C:\Users\prake\.ivy2\cache\com.twitter\chill_2.11\srcs\chill_2.11-0.8.0-sources.jar">
+					<artifact name="chill_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="34973" time="0" location="C:\Users\prake\.ivy2\cache\com.twitter\chill_2.11\srcs\chill_2.11-0.8.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/twitter/chill_2.11/0.8.0/chill_2.11-0.8.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1853,7 +1853,7 @@
 					<artifact name="chill-java" type="jar" ext="jar" status="no" details="" size="50619" time="0" location="C:\Users\prake\.ivy2\cache\com.twitter\chill-java\jars\chill-java-0.8.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/twitter/chill-java/0.8.0/chill-java-0.8.0.jar"/>
 					</artifact>
-					<artifact name="chill-java" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="49606" time="237" location="C:\Users\prake\.ivy2\cache\com.twitter\chill-java\srcs\chill-java-0.8.0-sources.jar">
+					<artifact name="chill-java" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="49606" time="0" location="C:\Users\prake\.ivy2\cache\com.twitter\chill-java\srcs\chill-java-0.8.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/twitter/chill-java/0.8.0/chill-java-0.8.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1864,10 +1864,10 @@
 				<metadata-artifact status="no" details="" size="4075" time="0" location="C:\Users\prake\.ivy2\cache\com.esotericsoftware\kryo-shaded\ivy-3.0.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/esotericsoftware/kryo-shaded/3.0.3/kryo-shaded-3.0.3.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="3.0.3" rev-constraint-default="3.0.3" rev-constraint-dynamic="3.0.3" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="kryo-shaded" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="191107" time="116" location="C:\Users\prake\.ivy2\cache\com.esotericsoftware\kryo-shaded\srcs\kryo-shaded-3.0.3-sources.jar">
+					<artifact name="kryo-shaded" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="191107" time="0" location="C:\Users\prake\.ivy2\cache\com.esotericsoftware\kryo-shaded\srcs\kryo-shaded-3.0.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/esotericsoftware/kryo-shaded/3.0.3/kryo-shaded-3.0.3-sources.jar"/>
 					</artifact>
-					<artifact name="kryo-shaded" type="jar" ext="jar" status="successful" details="" size="358390" time="107" location="C:\Users\prake\.ivy2\cache\com.esotericsoftware\kryo-shaded\jars\kryo-shaded-3.0.3.jar">
+					<artifact name="kryo-shaded" type="jar" ext="jar" status="no" details="" size="358390" time="0" location="C:\Users\prake\.ivy2\cache\com.esotericsoftware\kryo-shaded\jars\kryo-shaded-3.0.3.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/esotericsoftware/kryo-shaded/3.0.3/kryo-shaded-3.0.3.jar"/>
 					</artifact>
 				</artifacts>
@@ -1878,7 +1878,7 @@
 				<metadata-artifact status="no" details="" size="3166" time="0" location="C:\Users\prake\.ivy2\cache\org.objenesis\objenesis\ivy-2.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/objenesis/objenesis/2.1/objenesis-2.1.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="2.1" rev-constraint-default="2.1" rev-constraint-dynamic="2.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="objenesis" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="44014" time="258" location="C:\Users\prake\.ivy2\cache\org.objenesis\objenesis\srcs\objenesis-2.1-sources.jar">
+					<artifact name="objenesis" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="44014" time="0" location="C:\Users\prake\.ivy2\cache\org.objenesis\objenesis\srcs\objenesis-2.1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/objenesis/objenesis/2.1/objenesis-2.1-sources.jar"/>
 					</artifact>
 					<artifact name="objenesis" type="jar" ext="jar" status="no" details="" size="41755" time="0" location="C:\Users\prake\.ivy2\cache\org.objenesis\objenesis\jars\objenesis-2.1.jar">
@@ -1893,10 +1893,10 @@
 				<metadata-artifact status="no" details="" size="3180" time="0" location="C:\Users\prake\.ivy2\cache\com.esotericsoftware\minlog\ivy-1.3.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/esotericsoftware/minlog/1.3.0/minlog-1.3.0.pom"/>
 				<caller organisation="default" name="imageclassification$sources_2.11" conf="compile, runtime" rev="1.3.0" rev-constraint-default="1.3.0" rev-constraint-dynamic="1.3.0" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="minlog" type="jar" ext="jar" status="successful" details="" size="5711" time="89" location="C:\Users\prake\.ivy2\cache\com.esotericsoftware\minlog\jars\minlog-1.3.0.jar">
+					<artifact name="minlog" type="jar" ext="jar" status="no" details="" size="5711" time="0" location="C:\Users\prake\.ivy2\cache\com.esotericsoftware\minlog\jars\minlog-1.3.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/esotericsoftware/minlog/1.3.0/minlog-1.3.0.jar"/>
 					</artifact>
-					<artifact name="minlog" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="2458" time="97" location="C:\Users\prake\.ivy2\cache\com.esotericsoftware\minlog\srcs\minlog-1.3.0-sources.jar">
+					<artifact name="minlog" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="2458" time="0" location="C:\Users\prake\.ivy2\cache\com.esotericsoftware\minlog\srcs\minlog-1.3.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/esotericsoftware/minlog/1.3.0/minlog-1.3.0-sources.jar"/>
 					</artifact>
 				</artifacts>
