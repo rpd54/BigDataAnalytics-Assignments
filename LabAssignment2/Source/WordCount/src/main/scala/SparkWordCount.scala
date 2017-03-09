@@ -30,7 +30,7 @@ object SparkWordCount {
     val result = oper2.sortBy(_._2, false)
 
     //Action 3:saveastextfile
-    result.saveAsTextFile("output1")
+    result.saveAsTextFile("output2")
 
     //Action 4: To retrieve first element from RDD
     val y=result.first()
