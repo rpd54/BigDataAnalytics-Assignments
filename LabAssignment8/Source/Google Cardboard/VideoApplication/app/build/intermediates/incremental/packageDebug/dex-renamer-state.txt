@@ -1,7 +1,0 @@
-#Wed Mar 15 10:54:01 CDT 2017
-base.0=C\:\\Users\\prake\\Desktop\\Tutorial 6 - Google Cardboard Development\\VideoApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7d9bd53168c4bc19ea1c796172181e1ae59c8f4c
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\prake\\Desktop\\Tutorial 6 - Google Cardboard Development\\VideoApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4ab35470f822ccb4f1e66d46d24efcbb3bd6700c\\classes.dex
-base.1=C\:\\Users\\prake\\Desktop\\Tutorial 6 - Google Cardboard Development\\VideoApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4ab35470f822ccb4f1e66d46d24efcbb3bd6700c
-file.0=C\:\\Users\\prake\\Desktop\\Tutorial 6 - Google Cardboard Development\\VideoApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7d9bd53168c4bc19ea1c796172181e1ae59c8f4c\\classes.dex
